@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_working_in_jira">
+    <title>Jira</title>
+    <shortdesc>Jira Software is a part of a family of products designed to help teams of all types
+        manage work.</shortdesc>
+    <conbody>
+        <p>JIRA is a tool developed by Australian Company Atlassian. This software is used for bug
+            tracking, issue tracking, and project management. </p>
+        <image href="../image/atlassianjira.png" width="300" id="image_ywy_qbv_4pb"/>
+        <p>In order to report your progress, follow the plan, and respond to change, you will need
+            robust Agile project management tools such as <b>user stories, epics, themes, and
+                initiatives</b>.</p>
+        <image href="../image/themes.png" width="500" id="image_dy5_wbv_4pb"/>
+        <p><b>Themes</b> are large focus areas that span the organization.</p>
+        <p><b>Initiatives</b> are collections of epics that drive toward a common goal.</p>
+        <p><b>Epics</b> are large bodies of work that can be broken down into a number of smaller
+            tasks (called stories).</p>
+        <p><b>Stories</b>, also called “user stories,” are short requirements or requests written
+            from the perspective of an end user.</p>
+        <p><b>Sub-Tasks</b> are the sub-tasks of an issue. </p>
+        <image href="../image/epics-vs-stories-agile-development.png" width="500"
+            id="image_owq_zbv_4pb"/>
+        <note id="note_dj3_fnm_qpb">
+            <p><xref href="https://www.youtube.com/watch?v=LO8s6WM4Zo0" format="html"
+                    scope="external"><b>VIDEO</b>: Creating and Running an Agile Project in JIRA:
+                    Epics, Stories, Bugs, and Tasks</xref></p>
+        </note>
+    </conbody>
+</concept>

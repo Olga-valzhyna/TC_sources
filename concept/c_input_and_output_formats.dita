@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_differentiating_input_and_output_formats">
+    <title>Input and output formats</title>
+    <shortdesc>In an information system, input is the raw data that is processed to produce
+        output.</shortdesc>
+    <conbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_arp_sxx_qpb">
+            <title>The most frequently used formats</title>
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colsep="1" rowsep="1" colwidth="309.6pt"/>
+                <colspec colname="c2" colnum="2" colsep="1" rowsep="1" colwidth="309.6pt"/>
+                <thead>
+                    <row>
+                        <entry>Input formats</entry>
+                        <entry>Output formats</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Microsoft Word</entry>
+                        <entry>PDF</entry>
+                    </row>
+                    <row>
+                        <entry>LaTex</entry>
+                        <entry>HTML5, WebHelp</entry>
+                    </row>
+                    <row>
+                        <entry>HTML</entry>
+                        <entry>Help (.chm - Windows)</entry>
+                    </row>
+                    <row>
+                        <entry>XML (Adobe Frame maker, DITA, MadCap Flare)</entry>
+                        <entry>Tooltip</entry>
+                    </row>
+                    <row>
+                        <entry>JSON (API)</entry>
+                        <entry>Wiki</entry>
+                    </row>
+                    <row>
+                        <entry>Doxygen</entry>
+                        <entry>Excel</entry>
+                    </row>
+                    <row>
+                        <entry>Javadoc, Pydoc</entry>
+                        <entry>Graphical tools</entry>
+                    </row>
+                    <row>
+                        <entry>Markdown</entry>
+                        <entry>CAT tools</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <section id="section_ckr_z41_ppb">
+            <title>Input formats</title>
+            <ol id="ol_eqf_kp1_ppb">
+                <li>
+                    <p><b>Microsoft Word</b></p>
+                    <p>Microsoft Word or MS Word (often called Word) is a graphical word processing
+                        program that users can type with. It is made by the computer company
+                        Microsoft. Its purpose is to allow users to type and save documents.</p>
+                    <p>Similar to other word processors, it has helpful tools to make documents.</p>
+                    <p>
+                        <ul id="ul_wfk_rp1_ppb">
+                            <li>Spelling and grammar checker, word count (this also counts letters
+                                and lines)</li>
+                            <li>Speech recognitionInserts pictures in documents</li>
+                            <li>Choice of typefaces</li>
+                            <li>Special codesWeb pages, graphs, etc.</li>
+                            <li>Tables</li>
+                            <li>Displays synonyms of words and can read out the text</li>
+                            <li>Prints in different ways</li>
+                        </ul>
+                    </p>
+                    <p>Microsoft Word is a part of Microsoft Office, but can also be bought
+                        separately.</p>
+                </li>
+                <li>
+                    <p><b>LaTex</b></p>
+                    <p>LaTeX is a software system for document preparation. When writing, the writer
+                        uses plain text as opposed to the formatted text found in “What You See Is
+                        What You Get” word processors like Microsoft Word, LibreOffice Writer and
+                        Apple Pages. The writer uses markup tagging conventions to define the
+                        general structure of a document (such as article, book, and letter), to
+                        stylise text throughout a document (such as bold and italics), and to add
+                        citations and cross-references. A TeX distribution such as TeX Live or
+                        MiKTeX is used to produce an output file (such as PDF or DVI) suitable for
+                        printing or digital distribution.</p>
+                    <p>LaTeX is widely used in academia for the communication and publication of
+                        scientific documents in many fields, including mathematics, statistics,
+                        computer science, engineering, physics, economics, linguistics, quantitative
+                        psychology, philosophy, and political science.</p>
+                </li>
+                <li>
+                    <p><b>HTML</b></p>
+                    <p>HTML stands for “Hypertext Markup Language.” HTML is the language used to
+                        create webpages. “Hypertext” refers to the hyperlinks that an HTML page may
+                        contain. “Markup language” refers to the way tags are used to define the
+                        page layout and elements within the page.</p>
+                </li>
+                <li>
+                    <p><b>XML (Adobe Frame maker, DITA, MadCap Flare)</b></p>
+                    <p>Extensible Markup Language (XML) is a markup language that defines a set of
+                        rules for encoding documents in a format that is both human-readable and
+                        machine-readable.</p>
+                    <p>The design goals of XML emphasize simplicity, generality, and usability
+                        across the Internet. It is a textual data format with strong support via
+                        Unicode for different human languages. Although the design of XML focuses on
+                        documents, the language is widely used for the representation of arbitrary
+                        data structures such as those used in web services.</p>
+                </li>
+                <li>
+                    <p><b>JSON (API)</b></p>
+                    <p>JSON (JavaScript Object Notation) is an open standard file format and data
+                        interchange format that uses human-readable text to store and transmit data
+                        objects consisting of attribute–value pairs and arrays (or other
+                        serializable values). It is a very common data format, with a diverse range
+                        of applications, one example being web applications that communicate with a
+                        server.</p>
+                    <p>JSON is a language-independent data format. It was derived from JavaScript,
+                        but many modern programming languages include code to generate and parse
+                        JSON-format data.</p>
+                </li>
+                <li>
+                    <p><b>Doxygen, Javadoc, Pydoc</b></p>
+                    <p><i>Doxygen</i> is a documentation generator and static analysis tool for
+                        software source trees. When used as a documentation generator, Doxygen
+                        extracts information from specially-formatted comments within the code. When
+                        used for analysis, Doxygen uses its parse tree to generate diagrams and
+                        charts of the code structure. Doxygen can cross reference documentation and
+                        code, so that the reader of a document can easily refer to the actual
+                        code.</p>
+                    <p><i>Javadoc</i> is a documentation generator created by Sun Microsystems for
+                        the Java language (now owned by Oracle Corporation) for generating API
+                        documentation in HTML format from Java source code. The HTML format is used
+                        for adding the convenience of being able to hyperlink related documents
+                        together.</p>
+                    <p><i>Pydoc</i> is the standard documentation module for the programming
+                        language Python. Similar to the functionality of Perldoc within Perl and
+                        Javadoc within Java, Pydoc allows Python programmers to access Python’s
+                        documentation help files, generate text and HTML pages with documentation
+                        specifics, and find the appropriate module for a particular job.</p>
+                </li>
+                <li>
+                    <p><b>Markdown</b></p>
+                    <p>Markdown is a lightweight markup language for creating formatted text using a
+                        plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as
+                        a markup language that is appealing to human readers in its source code
+                        form. Markdown is widely used in blogging, instant messaging, online forums,
+                        collaborative software, documentation pages, and readme files.</p>
+                </li>
+            </ol>
+        </section>
+        <section id="section_tr2_fp1_ppb">
+            <title>Output formats</title>
+            <ol id="ol_drk_cr1_ppb">
+                <li>
+                    <p><b>PDF</b></p>
+                    <p>Portable Document Format (PDF), standardized as ISO 32000, is a file format
+                        developed by Adobe in 1993 to present documents, including text formatting
+                        and images, in a manner independent of application software, hardware, and
+                        operating systems. Based on the PostScript language, each PDF file
+                        encapsulates a complete description of a fixed-layout flat document,
+                        including the text, fonts, vector graphics, raster images and other
+                        information needed to display it.</p>
+                    <p>PDF files may contain a variety of content besides flat text and graphics
+                        including logical structuring elements, interactive elements such as
+                        annotations and form-fields, layers, rich media (including video content),
+                        and three-dimensional objects using U3D or PRC, and various other data
+                        formats. The PDF specification also provides for encryption and digital
+                        signatures, file attachments, and metadata to enable workflows requiring
+                        these features.</p>
+                </li>
+                <li>
+                    <p><b>HTML5, WebHelp</b></p>
+                    <p>Webhelp is a chunked HTML output format in the DocBook xslt stylesheets that
+                        was introduced in version 1.76.1. The documentation for web help also
+                        provides an example of web help and is part of the DocBook xsl
+                        distribution.</p>
+                </li>
+                <li>
+                    <p><b>Help (.chm - Windows)</b></p>
+                    <p>Microsoft Compiled HTML Help is a Microsoft proprietary online help format,
+                        consisting of a collection of HTML pages, an index and other navigation
+                        tools. The files are compressed and deployed in a binary format with the
+                        extension.CHM, for Compiled HTML. The format is often used for software
+                        documentation.</p>
+                </li>
+                <li>
+                    <p><b>Tooltip</b></p>
+                    <p>The tooltip, also known as infotip or hint, is a common graphical user
+                        interface element in which, when hovering over a screen element or
+                        component, a text box displays information about that element (such as a
+                        description of a button’s function, or what an abbreviation stands for). The
+                        tooltip is displayed continuously as long as the user hovers over the
+                        element.</p>
+                    <p>On desktop, it is used in conjunction with a cursor, usually a pointer,
+                        whereby the tooltip appears when a user hovers the pointer over an item
+                        without clicking it.</p>
+                </li>
+                <li>
+                    <p><b>Wiki</b></p>
+                    <p>Simple editing is one of the major benefits of using a wiki. Users can edit
+                        pages without knowing HTML, and still use many formatting features of HTML.
+                        Most wikis define a set of formatting rules to convert plain text into HTML.
+                        Some wikis also allow some HTML “tags” within a page. (Some wikis use raw
+                        HTML instead of special formatting rules.)</p>
+                </li>
+                <li>
+                    <p><b>Excel</b></p>
+                    <p>Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS,
+                        Android and iOS. It features calculation, graphing tools, pivot tables, and
+                        a macro programming language called Visual Basic for Applications (VBA).
+                        Excel forms part of the Microsoft Office suite of software.</p>
+                    <p>Microsoft Excel has the basic features of all spreadsheets, using a grid of
+                        cells arranged in numbered rows and letter-named columns to organize data
+                        manipulations like arithmetic operations. It has a battery of supplied
+                        functions to answer statistical, engineering, and financial needs. In
+                        addition, it can display data as line graphs, histograms and charts, and
+                        with a very limited three-dimensional graphical display. It allows
+                        sectioning of data to view its dependencies on various factors for different
+                        perspectives (using pivot tables and the scenario manager). A PivotTable is
+                        a powerful tool that can save time when it comes to data analysis.</p>
+                </li>
+                <li>
+                    <p><b>Graphical tools</b></p>
+                    <p>Graphical tools can provide comprehensive and easily understandable ways to
+                        present results of statistical analyses, particularly when a large amount of
+                        data is involved.</p>
+                </li>
+                <li>
+                    <p><b>CAT tools</b></p>
+                    <p>The “CAT” in CAT tool stands for “Computer Aided Translation” or “Computer
+                        Assisted Translation” but, it doesn’t mean that a computer is actually
+                        completing the translation for you. CAT tools are different than “machine
+                        translation” – they assist a human translator in doing their work more
+                        quickly and in managing their translation projects. CAT tools typically
+                        contain a translation memory, which stores previous source and target
+                        translations for easy reference while working. Term bases are also an
+                        integral part of translation tools, giving translators the ability to
+                        develop their own bilingual glossaries in their subject areas.</p>
+                </li>
+            </ol>
+        </section>
+    </conbody>
+</concept>

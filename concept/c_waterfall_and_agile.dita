@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_choosing_between_waterfall_and_agile">
+    <title>Waterfall and Agile</title>
+    <shortdesc>Agile and Waterfall are both Software Development Lifecycle (SDLC) methodologies that
+        have been widely adopted in the IT industry.</shortdesc>
+    <conbody>
+        <p>Waterfall methodology, also known as the linear sequential lifecycle model, is defined by
+            its linear, structured approach to project management. It is made up of a series of
+            steps that are completed in sequential order within the software development life cycle
+            (SDLC).</p>
+        <p>In contrast to waterfall development, agile is defined by its iterative approach to
+            project management. Instead of drafting lengthy project requirements at the onset, an
+            agile team breaks out the product into specific features, and they tackle each one under
+            a specific time constraint, known as a sprint.</p>
+        <image href="../image/Agile_Waterfall.png" width="500" id="image_e1t_tx5_4pb">
+            <alt>Waterfall vs Agile</alt>
+        </image>
+        <section id="section_sx2_b2z_4pb"><title>Waterfall</title><p>The concept of the waterfall
+                model incorporates a step-wise/sequential approach to project development. The
+                project’s progress flows progressively downward through all the phases, similar to a
+                waterfall.</p><p>The “waterfall model” is also known as the ”traditional” approach
+                to project development and is known for taking things slow and steady. Each phase
+                has to be finalized before moving on to the subsequent one.</p><p>On considering the
+                waterfall methodology, you are aiming for a successful outcome as a result of
+                meticulous planning at each phase in the process. Waterfall methodology mainly
+                emphasizes on accuracy.</p><p><b>Pros</b></p><ul id="ul_spg_3w5_4pb">
+                <li>The static and predictable workflow nature of this model makes it simple to
+                    create timelines, cost estimation, and stick to schedules.</li>
+                <li>The waterfall model requires clear documentation of each phase in the
+                    process.</li>
+                <li>The waterfall methodology is suitable for the projects which require various
+                    software components.</li>
+                <li>Projects progress can be easily measured and evaluated.</li>
+                <li>The team doesn’t need any prior knowledge to start working on a project.</li>
+                <li>Having a well-documented project and estimated timelines make it simple and easy
+                    to give timely updates to senior management.</li>
+                <li>It’s quite easy to manage due to an easy review process and distinct
+                    deliverables.</li>
+                <li>It facilitates the speedy delivery of the product.</li>
+                <li>The project undertaken is entirely reliant on the team with less client
+                    intervention.</li>
+                <li>A quality assurance test is performed before the completion of each phase.</li>
+            </ul><image href="../image/MarsW.jpg" width="500" id="image_qbz_sw5_4pb">
+                <alt>Waterfall</alt>
+            </image><p><b>Cons</b></p><ul id="ul_vp2_mw5_4pb">
+                <li>Each phase in the process is dependent on others. Change in one step leads to
+                    change in other phases as well. Water methodology leads to higher time
+                    consumption.</li>
+                <li>The process is not suitable for projects that have frequently changing
+                    requirements.</li>
+                <li>Small changes in the middle of the process may lead to quite a lot of
+                    issues.</li>
+                <li>The stakeholders/customers can’t see the working of a project until completion
+                    of all phases before coding.</li>
+                <li>Documentation consumes more time.</li>
+                <li>Customers and stakeholders don’t have any idea regarding what they want until
+                    they take a view of the working project. The waterfall model manages
+                    requirements gathering at the initial phase, so there are chances of missing the
+                    essential aspects down the line.</li>
+                <li>There is a high tendency to neglect the testing phase, which can be risky for a
+                    project.</li>
+            </ul></section>
+        <section id="section_ms2_l2z_4pb"><title>Agile</title><p>Agile methodology is defined as a
+                modern, iterative, and adaptable approach to managing a project. It permits you to
+                breakdown a large project into easier and convenient tasks which are accomplished in
+                short iterations. Every iteration is referred to as a single development cycle and
+                is reviewed by the concerned team.</p><p>Agile methodology allows the entire team to
+                adapt to changes quickly with fewer alterations, which in turn end in the successful
+                completion of the project despite the odds encountered. This methodology relies on
+                customer involvement all through the development process.</p><p><b>Pros</b></p><ul
+                id="ul_c2m_gx5_4pb">
+                <li>Customer satisfaction can be quickly done through rapid and continuous
+                    delivery.</li>
+                <li>Agile provides better adaptability to changes with quick response.</li>
+                <li>Special attention to design and technical details enhance agility.</li>
+                <li>Agile facilitates regular cooperation between the developers and the
+                    stakeholders.</li>
+                <li>People interaction is emphasized rather than any process and tools.</li>
+                <li>The Agile methodology supports a continuous development pace.</li>
+                <li>You will get instant feedback.</li>
+                <li>You can fix issues quickly.</li>
+            </ul><image href="../image/MarsA.jpg" width="500" id="image_hhr_wx5_4pb">
+                <alt>Agile</alt>
+            </image><p><b>Cons</b></p><ul id="ul_ydj_kx5_4pb">
+                <li>In the case of large and complex projects, it’s quite challenging to assess the
+                    effort required during the initial phase of the project.</li>
+                <li>Agile provides the least priority to designing and documentation, which can lead
+                    to problems. Organizations can easily step off the project if the customer is
+                    not transparent with the outcome.</li>
+                <li>There is no pre-defined plan. The agile technique works at its best when the
+                    designers are capable of being agile.</li>
+                <li>Senior programmers are proficient in taking decisions required for the
+                    development process. So there is no place for amateur programmers lacking
+                    experienced resources.</li>
+            </ul></section>
+        <section id="section_k2y_gjz_4pb"><title>Scrum and Kanban</title><p>Scrum and Kanban are two
+                flavours of Agile software development - two deceptively simple but surprisingly
+                powerful approaches to software development. </p><image
+                href="../image/kanban-vs-scrum.png" width="500" id="image_nby_fz5_4pb">
+                <alt>Difference</alt>
+            </image></section>
+        <section id="section_ips_yb1_ppb"><title>Scrum</title><p>Scrum is a framework utilizing an
+                agile mindset for developing, delivering, and sustaining complex products,with an
+                initial emphasis on software development, although it has been used in other fields
+                including research, sales, marketing and advanced technologies.</p><image
+                href="../image/MarsS.jpg" width="500" id="image_cw3_cz5_4pb">
+                <alt>Scrum</alt>
+            </image><p>Scrum denotes five time-based events for managing product delivery
+                iteratively and incrementally, while maximizing opportunities for feedback. These
+                are:</p><image href="../image/scrum.png" width="500" id="image_pph_jz5_4pb"/><ul
+                id="ul_uzd_xy5_4pb">
+                <li><b>Sprint Planning. </b>An eight-hour session where the team decides what to
+                    deliver in the coming sprint (from the product backlog) and how to go about
+                    it.</li>
+                <li><b>Sprint.</b> A timeframe of a month or less where the team delivers what was
+                    agreed in the sprint planning session.</li>
+                <li><b>Daily Scrum.</b> A 15-minute timebox (commonly referred to as daily stand up)
+                    where the team meets daily during the sprint to inspect progress and identify
+                    blockers.</li>
+                <li><b>Sprint Review.</b> A four-hour timebox event held at the end of the sprint.
+                    The team demonstrates the product/changes to customers and gathers feedback on
+                    what to incorporate in the product backlog for delivery in subsequent
+                    sprints.</li>
+                <li><b>Sprint Retrospective.</b> A three-hour timebox event held after the sprint
+                    review (and before the next sprint planning). The team reviews their work,
+                    identifying opportunities for improvement work processes in subsequent
+                    sprints.</li>
+            </ul></section>
+        <section id="section_mvm_yjz_4pb"><title>Kanban</title><p>Kanban is an Agile framework that
+                uses visualization to understand processes and workflows better and actual work done
+                in those processes.</p><image href="../image/MarsK.jpg" width="500"
+                id="image_v4j_m1v_4pb">
+                <alt>Kanban</alt>
+            </image><p>If you decide to apply Kanban, follow these six core practices:<ul
+                    id="ul_v3g_j1v_4pb">
+                    <li>Visualize the Flow of Work. Use cards or software to visualize the process
+                        activities on swim lanes.</li>
+                    <li>Limit Work in Progress (WIP). Encourage your team to complete work at hand
+                        first before taking up new work. The team pulls in new work only when they
+                        have capacity to handle it.</li>
+                    <li>Manage Flow. Observe the work as it flows through the swim lanes. Address
+                        any bottlenecks.</li>
+                    <li>Make Process Policies Explicit. Visually diagram the process rules and
+                        guidelines for managing the flow of work.</li>
+                    <li>Implement Feedback Loops. Throughout the work process, incorporate regular
+                        reviews with the team and customers to gather and incorporate feedback.</li>
+                    <li>Improve Collaboratively, Evolve Experimentally. As a team, look for and
+                        incorporate improvement initiatives, including through safe-to-fail
+                        experiments.</li>
+                </ul></p><image href="../image/Kanban.png" width="500" id="image_ekc_41v_4pb"
+            /></section>
+    </conbody>
+</concept>

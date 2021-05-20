@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_following_document_development_life_cycle">
+    <title>Document development life cycle</title>
+    <shortdesc>Document Development Life Cycle (DDLC) can be defined as the practice of developing a
+        document that involves a systematic process that continues in cyclic order.</shortdesc>
+    <conbody>
+
+        <p><image href="../image/DDLC.png" width="500" id="image_nzt_mn1_ppb">
+                <alt>DDLC</alt>
+            </image></p>
+        <section id="section_qpb_qn1_ppb">
+            <title>Requirement Analysis</title>
+            <p>In this stage, technical writers or content developers must collect specific
+                information regarding the product from product requisite, SME, online help or
+                seniors, and clients. It is because technical writers have to prepare the content as
+                per the audience. It has an essential subsection: Audience analysis where
+                professional writers and documentation experts have to explore who will use the
+                product associated with the writing, user’s need of building the product, as well as
+                assess of skill along with the expertise of the target audience before writing the
+                document.</p>
+            <p>Usually, technical writers assemble such information from Subject Matter Expert
+                (SME). This saves the writer’s time to understand the product. Since every company
+                has SMEs for various departments, technical writers and content creators can
+                approach them. Another potential target to get info regarding the product and its
+                working mechanism is from software developers. Time, cost, and resource estimation
+                are also done in this phase.</p>
+            <ul id="ul_t4d_141_ppb">
+                <li>Identify the audience (determine if the reader will be a technical user or a
+                    novice user)</li>
+                <li>Identify the type of document to create</li>
+                <li>Identify the cost (based on the number of screens in case of a Website
+                    guide)</li>
+                <li>Identify the SMEs</li>
+                <li>Identify various sources of related documentation</li>
+                <li>Request for access to the relevant resources</li>
+                <li>Identify the technical and functional reviewers</li>
+            </ul>
+        </section>
+        <section id="section_h1x_qn1_ppb">
+            <title>Designing Phase</title>
+            <p>In this designing stage, technical writers need to design the document or content by
+                using proper layout, format, style and strategy. Professional writers use various
+                authoring tools and bulk document processing applications such as RoboHelp, Madcap
+                Flare, MS Office, oXygen. Also, capturing screen images and product design tools
+                like Snagit are used. Camtasia is another application used for video capturing and
+                editing. XML and DITA are also used for creating better formatting of documents.
+                These are some tools and technologies technical writer needs to know.</p>
+            <ul id="ul_nty_141_ppb">
+                <li>Gather related documentation</li>
+                <li>Install the required tools</li>
+                <li>Create a strategy to publish work on time</li>
+                <li>Create the Table of Content (TOC)</li>
+                <li>Create the Template and Style Guide</li>
+            </ul>
+        </section>
+        <section id="section_pnc_rn1_ppb">
+            <title>Developing the content</title>
+            <p>The content is written as per the product features, requirements, and understanding
+                made in the first phase. Once the product is analyzed, the product is run, drafting
+                is done as per format and template.</p>
+            <ul id="ul_mcs_b41_ppb">
+                <li>Create content</li>
+                <li>Create figures</li>
+                <li>Create the index, appendix, glossary as requested</li>
+            </ul>
+        </section>
+        <section id="section_cf3_rn1_ppb">
+            <title>Editing / Proofreading</title>
+            <p>Next comes the editing phase, where the document is tested, as per the client/user’s
+                necessity, requirements, and product features. Technical writing editors, peer
+                reviewers, or the content review expert (who might be the head of the professional
+                writing department), will test and check the complete documentation. Here, technical
+                writers verify the technical part, figures, grammar mistakes, and document format.
+                Proofreading is a part of it where content experts check the entire draft to remove
+                bugs from the documentation drafting.</p>
+            <ul id="ul_fxk_c41_ppb">
+                <li>Review the document with the appointed SME</li>
+                <li>Peer review</li>
+                <li>Technical review</li>
+                <li>Functional review</li>
+            </ul>
+        </section>
+        <section id="section_ohn_rn1_ppb">
+            <title>Publishing</title>
+            <p>Here, in this stage, technical writers bring out the document, release it with the
+                product or as online help, and take a print of the entire document. The print is
+                taken to check if the alignment is proper or not, and reading the hard copy also
+                helps in getting a clear picture of the format and a few other documentation errors.
+                Hyperlinks are added to the content in case of online release.</p>
+        </section>
+        <section id="section_vsx_rn1_ppb">
+            <title>Maintenance</title>
+            <p>In this stage, if there is an update required to the document after the initial
+                release, technical writers or content developers add updates, alter or modify the
+                documentation. As the release of new products into the market, the online
+                documentation or the document released earlier is updated.</p>
+            <ul id="ul_nqr_d41_ppb">
+                <li>Constant deliverables maintenance</li>
+                <li>Content reuse analysis</li>
+                <li>Redundant data elimination</li>
+                <li>Template revision</li>
+                <li>New product feature inclusion</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

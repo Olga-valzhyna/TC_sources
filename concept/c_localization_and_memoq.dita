@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_understanding_localization_and_memoq">
+    <title>Localization and memoQ</title>
+    <shortdesc>Many people think that localization is mainly connected with translation. But
+        technical writing may be closely related to it as well. Localization, in this case, is the
+        adaptation of your documentation to the culture of the targeting country.</shortdesc>
+    <conbody>
+        <section id="section_pp1_4xh_ppb"><title>Localization</title><p>Localization is the
+                adaptation of your documentation to the culture of the targeting country. It is a
+                bridge between the cultures. If your product is going to enter the market in another
+                country, you should write in a manner that will enable the translators to make your
+                texts suitable for a foreign culture. This is an additional responsibility for
+                technical writers. It might seem surprising, but localization takes place not only
+                when we talk about cultures as different as Europe and Asia. Localization takes
+                place as well in the documents that come from the USA to Great Britain and vise
+                versa, or Spanish speaking countries, etc. The language might be the same, but due
+                to local particularities, it needs adaptation.</p><image href="../image/local.jfif"
+                width="500" id="image_rct_tyh_ppb"/><p>Localization in documentation may touch only
+                the most obvious things like date format, currency, measurements, and other small
+                inconsistencies. At the same time, localization may have a deeper character adapting
+                more global things like the questions of rhetoric.</p><p>So, what should a technical
+                writer bear in mind writing documentation for a foreign market?</p><ul
+                id="ul_g5g_cyh_ppb">
+                <li>
+                    <p><b>Additional space.</b> As a rule, companies want the documents in different
+                        languages to be identical and to look the same. It is easier for the readers
+                        to navigate and find the page or passage they need. This is a challenging
+                        thing to make the documents identical. You should be ready that your text in
+                        another language may become longer. Sometimes, this difference may be
+                        crucial. The text simply will not fit the layout. The best idea is to use
+                        additional space in the original document so that the new text does not ruin
+                        the whole document.</p>
+                </li>
+                <li>
+                    <p><b>Wise font choice.</b> Fonts are not universal for all the languages. Not
+                        all fonts are suitable for Asian languages, for example. The same can be
+                        said about many other languages. So, to avoid problems here, you should
+                        choose your fonts carefully. Make sure that your fonts are suitable for all
+                        the languages that are going to be used in your documents. Besides, you
+                        should limit the number of fonts you use for documentation. This will
+                        contribute to simplicity, as well.</p>
+                </li>
+                <li>
+                    <p><b>Careful use of abbreviations and acronyms.</b> They both can be a
+                        stumbling point of translators and technical communicators. A correct way
+                        out is to use the full version when they are going to be mentioned in the
+                        text for the first time. Then you can use the short version.</p>
+                </li>
+                <li>
+                    <p><b>Separate use of text and visuals.</b> When visuals contain text, that
+                        might be a problem. Technical writers or translators will have to prepare
+                        new ones with the proper text. Again that might affect the layout if the
+                        size of the visuals is wrong. It is better to avoid it and separate the
+                        visual materials from the text.</p>
+                </li>
+                <li>
+                    <p><b>Attention to detail.</b> One should keep in mind that the smallest details
+                        may affect the image of the product. For example, the choice of colors. In
+                        different cultures, they are perceived differently and have different
+                        meanings.</p>
+                </li>
+            </ul><image href="../image/language-and-localization.jpg" width="500"
+                id="image_mxx_brx_qpb"/><p>Poor localization spoils the image of the product on the
+                market and creates a feeling of awkwardness. It all starts with misunderstanding
+                between the cultures. That is a great deal of work to represent the product in the
+                correct way, and if you are going to create documentation that will be translated
+                into other languages, you can improve the results greatly if you know what may cause
+                problems.</p></section>
+        <section id="section_kqz_dyh_ppb"><title>CAT tools</title><p>The <b>“CAT”</b> in CAT tool
+                stands for <b>“Computer Aided Translation”</b> or <b>“Computer Assisted
+                    Translation”</b> but, as you might already know, it doesn’t mean that a computer
+                is actually completing the translation for you. CAT tools are different than
+                “machine translation” – they assist a human translator in doing their work more
+                quickly and in managing their translation projects. CAT tools typically contain a
+                translation memory, which stores previous source and target translations for easy
+                reference while working. Term bases are also an integral part of translation tools,
+                giving translators the ability to develop their own bilingual glossaries in their
+                subject areas.</p><image href="../image/cattool.jfif" id="image_zmg_gyh_ppb"
+                width="500"/><p>CAT tools can include a wide range of different features. Some can
+                work with different types of documents, such as Powerpoint presentations, without
+                needing to convert the text to a different file format. Some provide access to
+                online terminology databases or help the translator to better manage translation
+                memories. Some are software-based and some operate entirely in the
+                cloud.</p><p>There is an incredible variety of CAT tools available on the market. As
+                a translator, you could go crazy trying to find the perfect CAT tool, but really
+                there is no single perfect CAT tool. Your choice will depend on a number of
+                factors.</p></section>
+        <section id="section_irs_hyh_ppb"><title>memoQ</title><image href="../image/memoQ.png"
+                id="image_pyb_kyh_ppb" height="261" width="400"/><p>memoQ is a CAT tool. It is a
+                complete translation software solution for translating, managing terminology,
+                editing, and running LQA. It has some useful extras such as the translation preview
+                pane that allows you to see the segment you are translating in-context. memoQ has a
+                free version that is suitable for personal use or small projects, and the pro
+                version is available with a perpetual license.</p><image href="../image/memoQmy.jpg"
+                id="image_uzg_nyh_ppb" width="800"/></section>
+    </conbody>
+</concept>

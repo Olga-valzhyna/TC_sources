@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_identifying_milestones_in_the_process_of_writing">
+    <title>Important aspects of writing</title>
+    <shortdesc>The process of technical writing presupposes taking into account numerous aspects in
+        order to get a text of high quality.</shortdesc>
+    <conbody>
+        <section id="section_jtk_p5q_ppb"><title><b>Work with information</b></title><p>There 5 ways
+                to get information for a Technical Writer.</p><image href="../image/information.jpg"
+                width="500" id="image_jfv_cvq_ppb"/><p><b>Project materials</b></p><ul
+                id="ul_df1_2vq_ppb">
+                <li>Specifications and requirements</li>
+                <li>Estimates and analyses</li>
+                <li>Product strategies</li>
+                <li>Customer interviews</li>
+                <li>Training materials</li>
+                <li>Mockups</li>
+                <li>Test plans</li>
+            </ul><p><b>Product</b></p><ul id="ul_az1_fvq_ppb">
+                <li>Previous product version</li>
+                <li>Trials</li>
+                <li>Mockups</li>
+                <li>Test versions (test environment)</li>
+            </ul><p><b>Existing documentation</b></p><ul id="ul_bz1_fvq_ppb">
+                <li>Previos version</li>
+                <li>Similar product</li>
+                <li>Similar type of documentation</li>
+                <li>The same technology, but a different project</li>
+                <li>Developer’s documentation</li>
+                <li>Knowledge base</li>
+                <li>Documentation for implementation departments</li>
+                <li>Documentation for support departments</li>
+                <li>Standards</li>
+            </ul><p><b>Competition</b></p><ul id="ul_cz1_fvq_ppb">
+                <li>Competition analysis</li>
+                <li>Open documentation portals</li>
+                <li>Libraries</li>
+                <li>Knowledge bases</li>
+                <li>Product community forums</li>
+                <li>Open social media channels</li>
+            </ul><p><b>Eksperts</b> (Subject Matter Experts – SME)</p><ul id="ul_dz1_fvq_ppb">
+                <li>Specialists in their fields</li>
+                <li>Person with broad subject knowledge</li>
+                <li>Experienced practitioner</li>
+            </ul></section>
+        <section id="section_fxp_p5q_ppb">
+            <title>SME</title>
+            <p><image href="../image/SME.png" width="500" id="image_ebk_hvq_ppb"/></p>
+            <p>A technical writing job supposes to communicate with members of other teams, for
+                example, with developers, designers, SMEs, and the like; and all of them are just
+                people. They can be busy, they can forget something or they even can dislike you
+                because of some subjective reasons. So, how to handle unresponsive SMEs if you need
+                to interview them?</p>
+            <p>When you set a date for a business meeting, keep in mind the following tips:</p>
+            <p><b>Build a strong relationship with your SME.</b> The stronger your relationship is
+                with your SME, the more likely you are to develop successful content.</p>
+            <p><b>Use examples.</b>SMEs are NOT instructional designers or course creators.
+                Presenting them with similar end-products of what you’d like your course to look
+                like will give them a much better idea of the content you need them to provide.</p>
+            <p><b>Do your homework</b> — prepare relevant questions, the answers to those questions
+                should not be easily found elsewhere. You should use questions as a base for
+                discussion, don’t ask questions just one by one but discuss with them good and bad
+                ideas, and suggest what you can improve.</p>
+            <p><b>Think about ways of communication that SME prefers</b>. Maybe, it will be more
+                suitable for them to communicate via phone, email, slack and so on.</p>
+            <p><b>Help SMEs with their tasks</b>, it can be something like consulting about a
+                presentation, proofreading a report for them, etc. You’ll show that you’re not just
+                another team member and they will memorize you.</p>
+        </section>
+        <section id="section_bc5_p5q_ppb">
+            <title>Style guides</title>
+            <p>A style guide is a <b>set of standards for writing and designing contents</b>. A
+                style guide for technical writing defines the style that should be used in technical
+                communication, such as in user manuals, online help, and procedural writing. A style
+                guide helps you to write documentation in a clearer way, and to keep a consistent
+                tone of voice and style.</p>
+            <p>
+                <ul id="ul_ddn_t5q_ppb">
+                    <li><xref href="https://developers.google.com/style/" format="html"
+                            scope="external">Google</xref></li>
+                    <li><xref
+                            href="https://docs.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions"
+                            format="html" scope="external">Microsoft</xref></li>
+                    <li><xref href="https://atlassian.design/" format="html" scope="external"
+                            >Atlassian</xref></li>
+                    <li><xref href="https://help.apple.com/applestyleguide/#/apsg1eef9171"
+                            format="html" scope="external">Apple</xref></li>
+                    <li><xref href="https://developer.salesforce.com/docs/" format="html"
+                            scope="external">Salesforce</xref></li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_jrw_p5q_ppb">
+            <title>Standards (STE)</title>
+            <p><b>Simplified Technical English</b>(STE) was developed to help the readers of
+                English-language documentation understand what they read, particularly when these
+                readers are non-native English speakers.</p>
+            <p><xref href="http://www.asd-ste100.org/" format="html" scope="external"
+                    >ASD-STE100</xref></p>
+            <p><xref href="https://technicalwritingexpert.com/simplifiedtechnicalenglish/"
+                    format="html" scope="external">Simplified Technical English STE writing
+                    rules</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Simplified_Technical_English" format="html"
+                    scope="external">Wikipedia: Simplified Technical English</xref></p>
+        </section>
+        <section id="section_zvd_pvq_ppb"><title>Customer personas</title><p>A customer persona
+                (also known as a buyer persona) is a semi-fictional archetype that represents the
+                key traits of a large segment of your audience, based on the data you’ve collected
+                from user research and web analytics. It gives you insight into what your
+                prospective customers are thinking and doing as they weigh potential options that
+                address the problem they want to solve. </p><p><xref
+                    href="https://www.usertesting.com/blog/customer-personas" format="html"
+                    scope="external">The 5 best guides for creating a customer
+                persona</xref></p><p>The example of the persona that was created for the purpose of
+                this project. </p><image href="../image/Jadwiga.jpg" width="500"
+                id="image_pdt_gnt_qpb"/></section>
+        <section id="section_kpt_pvq_ppb"><title>Customer journey map</title><p>A customer journey
+                map is a visual representation of the process a customer or prospect goes through to
+                achieve a goal with your company. With the help of a customer journey map, you can
+                get a sense of your customers' motivations — their needs and pain
+                    points.</p><p><xref href="https://blog.hubspot.com/service/customer-journey-map"
+                    format="html" scope="external">How to Create an Effective Customer Journey Map
+                    (Examples + Template)</xref></p><image href="../image/mapcustomer.png"
+                id="image_elp_pst_qpb" width="650"/></section>
+        <section id="section_xk4_svq_ppb"><title>Content strategy</title><p>Content strategy is the
+                ongoing process of translating business objectives and goals into a plan that uses
+                content as a primary means of achieving those goals. </p><image
+                href="../image/content-strategy.jpg" id="image_elv_rvt_qpb" width="500"/><p><xref
+                    href="https://blog.marketmuse.com/what-is-content-strategy/" format="html"
+                    scope="external">What is Content Strategy? (With Examples)</xref></p></section>
+        <section id="section_lxl_cwq_ppb"><title>Information architecture</title><p> Information
+                architecture is the creation of a structure for a website, application, or other
+                project, that allows us to understand where we are as users, and where the
+                information we want is in relation to our position. Information architecture results
+                in the creation of site maps, hierarchies, categorizations, navigation, and
+                metadata. </p><image href="../image/arc.png" width="500" id="image_nnn_hwt_qpb"
+                    /><p><xref
+                    href="https://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/"
+                    format="html" scope="external">Complete Beginner’s Guide to Information
+                    Architecture</xref></p></section>
+        <section id="section_srn_2wq_ppb">
+            <title>Taxonomy</title>
+            <p>Taxonomy represents the foundation upon which information architecture stands, and
+                all well-rounded developers should have at least a basic understanding of taxonomy
+                to ensure that they can create organized, logical applications.</p>
+            <p><xref
+                    href="https://www.techrepublic.com/article/understanding-information-taxonomy-helps-build-better-apps/"
+                    format="html" scope="external">Understanding information taxonomy helps build
+                    better apps</xref></p>
+        </section>
+        <section id="section_axs_hwq_ppb"><title>Mind mapping</title><p>A Mind Map is an easy way to
+                brainstorm thoughts organically without worrying about order and structure. It
+                allows you to visually structure your ideas to help with analysis and
+                recall.</p><p>A Mind Map is a diagram for representing tasks, words, concepts, or
+                items linked to and arranged around a central concept or subject using a non-linear
+                graphical layout that allows the user to build an intuitive framework around a
+                central concept. A Mind Map can turn a long list of monotonous information into a
+                colorful, memorable and highly organized diagram that works in line with your
+                brain's natural way of doing things.</p><p><xref
+                    href="https://www.mindmapping.com/mind-map" format="html" scope="external"
+                    >MindMapping</xref></p><image href="../image/mindmap.png" id="image_szw_5tt_qpb"
+                width="500"/></section>
+    </conbody>
+</concept>

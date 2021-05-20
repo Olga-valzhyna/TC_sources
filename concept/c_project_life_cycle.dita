@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_understanding_project_life_cycle">
+    <title>Project life cycle</title>
+    <shortdesc>The Project Life Cycle refers to a series of activities which are necessary to
+        fulfill project goals or objectives.</shortdesc>
+    <conbody>
+
+        <p>Projects vary in size and complexity, but, no matter how large or small, all projects can
+            be mapped to the following life cycle structure. </p>
+        <image href="../image/project_life_cycle.png" width="500" id="image_bld_pxk_4pb">
+            <alt>Project Life Cycle</alt>
+        </image>
+        <section id="section_oyt_lhz_4pb">
+            <title>Identification Phase</title>
+            <p>This is the first stage of project life cycle. It is also known as initiation phase.
+                The initiating processes determine the nature and scope of the project. If this
+                stage is not performed well, it is unlikely that the project will be successful in
+                meeting the business’ needs. The key project controls needed here are an
+                understanding of the business environment and making sure that all necessary
+                controls are incorporated into the project. Any deficiencies should be reported and
+                a recommendation should be made to fix them.</p>
+            <p>The initiating stage should include a plan that encompasses the following areas.
+                These areas can be recorded in a series of documents called Project Initiation
+                documents. Project Initiation documents are a series of planned documents used to
+                create order for the duration of the project. These tend to include: <ul
+                    id="ul_krm_js5_4pb">
+                    <li>project proposal (idea behind project, overall goal, duration)</li>
+                    <li>project scope (project direction and track)</li>
+                    <li>product breakdown structure (PBS) (a hierarchy of deliverables / outcomes
+                        and components thereof)</li>
+                    <li>work breakdown structure (WBS) (a hierarchy of the work to be done, down to
+                        daily tasks)</li>
+                    <li>responsibility assignment matrix (RACI) (roles and responsibilities aligned
+                        to deliverables / outcomes)</li>
+                    <li>tentative project schedule (milestones, important dates, deadlines)</li>
+                    <li>analysis of business needs and requirements against measurable goals</li>
+                    <li>review of the current operations</li>
+                    <li>financial analysis of the costs and benefits, including a budget</li>
+                    <li>stakeholder analysis, including users and support personnel for the
+                        project</li>
+                    <li>project charter including costs, tasks, deliverables, and schedules</li>
+                    <li>SWOT analysis: strengths, weaknesses, opportunities, and threats to the
+                        business.</li>
+                </ul></p>
+        </section>
+        <section id="section_hyk_hhz_4pb">
+            <title>Planning Phase</title>
+            <p>After the initiation stage, the project is planned to an appropriate level of detail.
+                The main purpose is to plan time, cost, and resources adequately to estimate the
+                work needed and to effectively manage risk during project execution.</p>
+            <p>Project planning generally consists of</p>
+            <ul id="ul_vtl_qs5_4pb">
+                <li>determining the project management methodology to follow</li>
+                <li>developing the scope statement</li>
+                <li>selecting the planning team</li>
+                <li>identifying deliverables and creating the product and work breakdown
+                    structures</li>
+                <li>identifying the activities needed to complete those deliverables and networking
+                    the activities in their logical sequence</li>
+                <li>estimating the resource requirements for the activities</li>
+                <li>estimating time and cost for activities</li>
+                <li>developing the schedule</li>
+                <li>developing the budget</li>
+                <li>risk planning</li>
+                <li>developing quality assurance measures</li>
+                <li>gaining formal approval to begin work.</li>
+            </ul>
+        </section>
+        <section id="section_hwh_rgz_4pb">
+            <title>Implementation, Monitoring and Controlling Phase</title>
+            <p>During the third phase, the implementation phase, the project plan is put into motion
+                and the work of the project is performed. It is important to maintain control and
+                communicate as needed during implementation. Progress is continuously monitored and
+                appropriate adjustments are made and recorded as variances from the original
+                plan.</p>
+            <p>In any project, a project manager spends most of the time in this step. During
+                project implementation, people are carrying out the tasks, and progress information
+                is being reported through regular team meetings. The project manager uses this
+                information to maintain control over the direction of the project by comparing the
+                progress reports with the project plan to measure the performance of the project
+                activities and take corrective action as needed. The first course of action should
+                always be to bring the project back on course. If that can not happen, the team
+                should record variations from the original plan and record and publish modifications
+                to the plan. Throughout this step, project sponsors and other key stakeholders
+                should be kept informed of the project’s status according to the agreed-on frequency
+                and format of communication. The plan should be updated and published on a regular
+                basis.</p>
+            <p>Status reports should always emphasize the anticipated end point in terms of cost,
+                schedule, and quality of deliverables. Each project deliverable produced should be
+                reviewed for quality and measured against the acceptance criteria. Once all of the
+                deliverables have been produced and the customer has accepted the final solution,
+                the project is ready for closure.</p>
+        </section>
+        <section id="section_fs3_pgz_4pb">
+            <title>Closure Phase</title>
+            <p>During the final closure, or completion phase, the emphasis is on releasing the final
+                deliverables to the customer, handing over project documentation to the business,
+                terminating supplier contracts, releasing project resources, and communicating the
+                closure of the project to all stakeholders. The last remaining step is to conduct
+                lessons-learned studies to examine what went well and what didn’t. Through this type
+                of analysis, the wisdom of experience is transferred back to the project
+                organization, which will help future project teams.</p>
+        </section>
+    </conbody>
+</concept>

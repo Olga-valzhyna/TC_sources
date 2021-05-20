@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_starting_with_markdown">
+    <title>Markdown</title>
+    <shortdesc>Markdown is a lightweight markup language for creating formatted text using a
+        plain-text editor. Markdown is widely used in blogging, instant messaging, online forums,
+        collaborative software, documentation pages, and readme files.</shortdesc>
+    <conbody>
+        <image href="../image/markdown.png" width="500" height="261" id="image_wxy_cm3_ppb"/>
+        <section id="section_wlv_fm3_ppb">
+            <title>Headers</title>
+            <p>To create a header, preface the phrase with a hash mark (#). You place the same
+                number of hash marks as the size of the header you want. For example, for a header
+                one, you'd use one hash mark, while for a header three, you'd use three.</p>
+            <codeblock id="codeblock_qqj_3m3_ppb">## ex. 2 Customer
+### ex. 3 Project manager
+#### ex. 4 Product owner
+##### ex. 5 Developer
+###### ex. 6 Technical writer</codeblock>
+        </section>
+        <section id="section_j5x_rm3_ppb">
+            <title>Paragraphs</title>
+            <p>To create paragraphs, use a blank line to separate one or more lines of text. You
+                should not indent paragraphs with spaces or tabs.</p>
+            <codeblock id="codeblock_iyc_5m3_ppb">**ex. Technical writing is not just about understanding technical information and recording it in a document.**  
+
+**Technical writing takes high-level information and processes it into digestible content for a specific audience.**</codeblock>
+        </section>
+        <section id="section_wds_vm3_ppb">
+            <title>Line Breaks</title>
+            <p>To create a line break , end a line with two or more spaces, and then type return. </p>
+            <codeblock id="codeblock_hxm_1n3_ppb">**ex. A technical writer is a professional writer that communications complex information.**  
+*So what exactly does a technical writer do?*  
+**They create technical documentation that includes things like instruction manuals, user manuals, journal articles, quick reference guides, and white papers.**</codeblock>
+        </section>
+        <section id="section_awk_bn3_ppb">
+            <title>Emphasis</title>
+            <ul id="ul_nzv_nn3_ppb">
+                <li><b>Bold</b><p>To bold text, add two asterisks (*) before and after a word or
+                        phrase. To bold the middle of a word for emphasis, add two asterisks without
+                        spaces around the letters.
+                    </p><codeblock id="codeblock_rlb_sn3_ppb">ex. **Attention to detail with a creative eye.** </codeblock></li>
+                <li><b>Italic</b><p>To italicize text, add one asterisk before and after a word or
+                        phrase. To italicize the middle of a word for emphasis, add one asterisk
+                        without spaces around the letters.
+                    </p><codeblock id="codeblock_zjy_d43_ppb">ex. *Passionate about learning and developing.*</codeblock></li>
+            </ul>
+        </section>
+        <section id="section_nlq_g43_ppb">
+            <title>Blockquotes</title>
+            <p>To create a blockquote, add a > in front of a paragraph.</p>
+            <codeblock id="codeblock_rrq_l43_ppb">ex. Mark Zuckerberg believes:
+> Some people dream of success... while others wake up and work hard at it.</codeblock>
+        </section>
+        <section id="section_brz_n43_ppb">
+            <title>Lists</title>
+            <ul id="ul_lxs_443_ppb">
+                <li><b>Numbered Lists</b><p>To create an ordered list, add line items with numbers
+                        followed by periods. The numbers don’t have to be in numerical order, but
+                        the list should start with the number
+                    one.</p><codeblock id="codeblock_rxs_s43_ppb">1. Jira
+2. Confluence
+3. Brackets
+4. Visual Studio Code
+5. MadCap Flare
+6. Snagit
+7. Camtasia
+8. MemoQ
+9. Oxygen
+10. GitHub Desktop </codeblock></li>
+                <li><b>Bullet Lists</b><p>To create an unordered list, add asterisks (*) in front of
+                        line
+                    items.</p><codeblock id="codeblock_jj3_v43_ppb">* Technical communication
+* Web technologies
+    * HTML
+    * CSS
+* Technical texts</codeblock></li>
+            </ul>
+        </section>
+        <section id="section_rnd_cp3_ppb">
+            <title>Images</title>
+            <p>To add an image, add an exclamation mark (!), followed by alt text in brackets, and
+                the path or URL to the image asset in parentheses. You can optionally add a title
+                after the URL in the parentheses.</p>
+            <codeblock id="codeblock_pbf_nq3_ppb">![Technical communication](https://www.vistula.edu.pl/wp-content/uploads/2017/07/studia_podyplomowe_komunikacja_techniczna-565x278.jpg)</codeblock>
+        </section>
+        <section id="section_hq5_cp3_ppb">
+            <title>Links</title>
+            <ul id="ul_z1f_5p3_ppb">
+                <li><b>Linking Images</b><p>To add a link to an image, enclose the Markdown for the
+                        image in brackets, and then add the link in parentheses.
+                    </p><codeblock id="codeblock_ztr_3q3_ppb">![Technical writer](assets/images/writer.jpg)</codeblock></li>
+                <li><b>Linking URL</b><p>To create a link, enclose the link text in brackets and
+                        then follow it immediately with the URL in
+                    parentheses.</p><codeblock id="codeblock_jhn_fq3_ppb">[Visit GitHub!](www.github.com)</codeblock></li>
+                <li><b>Linking to another
+                    file</b><codeblock id="codeblock_nkz_bq3_ppb">[Additional content](Visual Studio Code.md)</codeblock></li>
+            </ul>
+        </section>
+        <section id="section_zdz_cp3_ppb">
+            <title>Tables</title>
+            <p>To add a table, use three or more hyphens (---) to create each column’s header, and
+                use pipes (|) to separate each column. You can optionally add pipes on either end of
+                the table.</p>
+            <codeblock id="codeblock_rwq_pp3_ppb">| header 1 | header 2 |
+| -------- | -------- |
+| course 1 | course 2 |
+| lesson 1 | lesson 2 |</codeblock>
+        </section>
+        <section id="section_rvc_dp3_ppb">
+            <title>Code</title>
+            <p>To indicate a span of code, wrap it with backtick quotes (`). Unlike a pre-formatted
+                code block, a code span indicates code within a normal paragraph.</p>
+            <p>ex. Specify <codeblock id="codeblock_dc4_lp3_ppb">`x=7`</codeblock> when x equals
+                seven.</p>
+            <p>To include a literal backtick character within a code span, you can use multiple
+                backticks as the opening and closing delimiters.</p>
+            <codeblock id="codeblock_zr1_np3_ppb">```
+ex. x=7;
+    y=17;
+    z=x+y;
+```</codeblock>
+        </section>
+    </conbody>
+</concept>

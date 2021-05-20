@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_techniques_and_tools">
+    <title>Tools</title>
+    <shortdesc>Using the right tools for technical writing makes the life of a technical writer
+        easy. There are a lot of different tools available for variable purposes — authoring,
+        publishing, screen captures, drawing, image manipulation, and more.</shortdesc>
+    <conbody>
+        <image href="../image/helptool.jpg" width="500" id="image_ndt_nyp_ppb"/>
+        <section id="section_e21_pyp_ppb">
+            <title>Programs used during the course</title>
+            <p>
+                <ol id="ol_bmb_k1q_ppb">
+                    <li><b>Jira</b><p><xref href="https://www.atlassian.com/software/jira"
+                                format="html" scope="external"/></p></li>
+                    <li><b>Confluence</b><p><xref
+                                href="https://www.atlassian.com/software/confluence" format="html"
+                                scope="external"/></p></li>
+                    <li><b>Snagit</b><p><xref href="https://www.techsmith.com/screen-capture.html"
+                                format="html" scope="external"/></p></li>
+                    <li><b>Camtasia</b><p><xref href="https://www.techsmith.com/video-editor.html"
+                                format="html" scope="external"/></p></li>
+                    <li><b>Brackets</b><p><xref href="https://brackets.download/" format="html"
+                                scope="external"/></p></li>
+                    <li><b>Visual Studio Code</b><p><xref
+                                href="https://code.visualstudio.com/Download" format="html"
+                                scope="external"/></p></li>
+                    <li><b>GitHub Desktop</b><p><xref href="https://desktop.github.com/"
+                                format="html" scope="external"/></p></li>
+                    <li><b>MadCap Flare</b><p><xref
+                                href="https://www.madcapsoftware.com/products/flare/" format="html"
+                                scope="external"/></p></li>
+                    <li><b>Oxygen</b><p><xref
+                                href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html"
+                                format="html" scope="external"/></p></li>
+                    <li><b>memoQ</b><p><xref href="https://www.memoq.com/" format="html"
+                                scope="external"/></p></li>
+                </ol>
+            </p>
+        </section>
+        <section id="section_l4l_pyp_ppb">
+            <title>Spelling and grammar</title>
+            <p>
+                <ul id="ul_xyh_f1q_ppb">
+                    <li><xref href="https://www.grammarly.com/" format="html" scope="external"
+                            >Grammarly</xref></li>
+                    <li><xref href="https://www.deepl.com/translator" format="html" scope="external"
+                            >DeepL</xref></li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_ggq_pyp_ppb">
+            <title>Readability</title>
+            <p><xref href="https://hemingwayapp.com/" format="html" scope="external">Hemmingway
+                    App</xref></p>
+        </section>
+        <section id="section_ul5_pyp_ppb">
+            <title>Diagrams</title>
+            <p><xref
+                    href="https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad/related"
+                    format="html" scope="external">Gliffy for Chrome</xref></p>
+        </section>
+        <section id="section_lcx_pyp_ppb">
+            <title>Screenshots</title>
+            <p>
+                <ul id="ul_r1n_zzp_ppb">
+                    <li><xref
+                            href="https://download.komputerswiat.pl/biuro-i-praca/pliki-pdf/pdf-snipping-tool"
+                            format="html" scope="external">Snipping tool</xref></li>
+                    <li><xref href="https://www.screenpresso.com/" format="html" scope="external"
+                            >Screenpresso</xref></li>
+                    <li><xref
+                            href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg"
+                            format="html" scope="external">FireShot</xref></li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_cn1_qyp_ppb">
+            <title>Availability</title>
+            <p>
+                <ul id="ul_ivb_5zp_ppb">
+                    <li><xref href="https://www.w3.org/WAI/ER/tools/" format="html" scope="external"
+                            >Validators</xref></li>
+                    <li><xref href="https://pad.widzialni.org/narzedziownia" format="html"
+                            scope="external">Narzędziownia Polskiej Akademii Dostępności</xref></li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_p4g_qyp_ppb">
+            <title>Tasks management</title>
+            <p>
+                <ul id="ul_xzs_4zp_ppb">
+                    <li><xref href="https://trello.com/" format="html" scope="external"
+                            >Trello</xref></li>
+                    <li><xref href="https://to-do.microsoft.com/tasks/" format="html"
+                            scope="external">To-Do (MS Planner)</xref></li>
+                    <li><xref href="https://keep.google.com/" format="html" scope="external">Google
+                            Keep/Tasks</xref></li>
+                    <li><xref href="https://todoist.com/pl" format="html" scope="external"
+                            >Todoist</xref></li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_hyj_qyp_ppb">
+            <title>Video/Animations</title>
+            <p>
+                <ul id="ul_abn_jzp_ppb">
+                    <li><xref
+                            href="https://www.adobe.com/pl/products/aftereffects.html?ef_id=fb73f7f09c90162b4b7a975449f3f2b0:G:s&amp;s_kwcid=AL!3085!10!79096272624058!79096559221974&amp;msclkid=fb73f7f09c90162b4b7a975449f3f2b0"
+                            format="html" scope="external">Adobe CS (Premiere, After effects)
+                        </xref></li>
+                    <li><xref href="https://www.cinema4d.pl/" format="html" scope="external">Cinema
+                            4D </xref></li>
+                    <li><xref
+                            href="https://borisfx.com/products/mocha-ae-cc-mocha-for-after-effects/"
+                            format="html" scope="external">Mocha AE</xref></li>
+                    <li><xref href="https://www.ispring.pl/ispring-suite" format="html"
+                            scope="external">iSpring Suite</xref></li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_nhm_qyp_ppb">
+            <title>Screen recording</title>
+            <p>
+                <ul id="ul_v1x_gzp_ppb">
+                    <li><xref href="https://www.techsmith.com/" format="html" scope="external"
+                            >Camtasia/Snagit</xref></li>
+                    <li><xref
+                            href="https://support.microsoft.com/en-us/office/record-your-screen-in-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0"
+                            format="html" scope="external">Powerpoint</xref></li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_tbp_qyp_ppb">
+            <title>GIFs</title>
+            <p>
+                <ul id="ul_ssv_bzp_ppb">
+                    <li><xref href="https://www.techsmith.com/" format="html" scope="external"
+                            >Camtasia/Snagit </xref></li>
+                    <li><xref href="https://convertio.co/pl/mp4-gif/" format="html" scope="external"
+                            >Converters online, for example convertio.co/mp4-gif/</xref></li>
+                </ul>
+            </p>
+        </section>
+    </conbody>
+</concept>

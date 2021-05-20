@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_basic_technologies">
+        <title>Basic technologies</title>
+        <shortdesc>A technical writer should be communicative, have excellent language skills,
+                perfect research and exploration skills, the ability to create versatile contents,
+                and the knowledge of basic technologies that could be beneficial in developing
+                effective technical writing.</shortdesc>
+        <conbody>
+                <p>In addition to solid research, language, writing, and revision skills, a
+                        technical writer may have skills in: <ul id="ul_osv_zpq_ppb">
+                                <li><xref href="https://en.wikipedia.org/wiki/Business_analyst"
+                                                format="html" scope="external">Business
+                                                analysis</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Scripting_language"
+                                                format="html" scope="external">Computer
+                                                scripting</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Content_management"
+                                                format="html" scope="external">Content
+                                                management</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Content_design"
+                                                format="html" scope="external">Content
+                                        design</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Illustration"
+                                                format="html" scope="external"
+                                                >Illustration</xref>/<xref
+                                                href="https://en.wikipedia.org/wiki/Graphic_design"
+                                                format="html" scope="external">graphic
+                                        design</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Index_(publishing)"
+                                                format="html" scope="external">Indexing</xref></li>
+                                <li><xref
+                                                href="https://en.wikipedia.org/wiki/Information_architecture"
+                                                format="html" scope="external">Information
+                                                architecture</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Information_design"
+                                                format="html" scope="external">Information
+                                                design</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Language_localization"
+                                                format="html" scope="external"
+                                                >Localization</xref>/<xref
+                                                href="https://en.wikipedia.org/wiki/Technical_translation"
+                                                format="html" scope="external">technical
+                                                translation</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Training"
+                                                format="html" scope="external">Training</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/E-learning"
+                                                format="html" scope="external"
+                                        >E-learning</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/User_interface"
+                                                format="html" scope="external">User
+                                                interfaces</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Video_editing"
+                                                format="html" scope="external">Video
+                                        editing</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Web_design"
+                                                format="html" scope="external">Website
+                                                design/management</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/HTML" format="html"
+                                                scope="external">Hypertext Markup Language
+                                                (HTML)</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Usability_testing"
+                                                format="html" scope="external">Usability
+                                                testing</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Problem_solving"
+                                                format="html" scope="external">Problem
+                                                solving</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Version_control"
+                                                format="html" scope="external">Version
+                                                control</xref></li>
+                                <li><xref href="https://en.wikipedia.org/wiki/Markup_language"
+                                                format="html" scope="external">Markup
+                                                language</xref></li>
+                                <li><xref
+                                                href="https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators"
+                                                format="html" scope="external">Static site
+                                                generators</xref></li>
+                        </ul></p>
+                <image href="../image/multitasker.jpg" width="500" id="image_zqh_pwx_qpb"/>
+        </conbody>
+</concept>

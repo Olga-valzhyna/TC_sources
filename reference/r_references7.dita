@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_references7">
+    <title>References</title>
+    <shortdesc>The more extended information on "Project management" can be found here.</shortdesc>
+    <refbody>
+        <section id="section_xcx_mcv_4pb">
+            <title>Wikipedia</title>
+            <p><xref href="https://en.wikipedia.org/wiki/Project_management" format="html"
+                    scope="external">Project management</xref></p>
+        </section>
+        <section id="section_whd_ncv_4pb">
+            <title>MindManager Blog</title>
+            <p><xref
+                    href="https://blog.mindmanager.com/blog/2018/12/getting-back-basics-project-management/#:~:text=In%20a%20nutshell%2C%20the%20basics%20of%20project%20management,the%20goal%20of%20achieving%20a%20specific%20business%20outcome."
+                    format="html" scope="external">Basics of project management</xref></p>
+        </section>
+        <section id="section_bdh_5cv_4pb">
+            <title>WikiFinancepedia</title>
+            <p><xref
+                    href="https://wikifinancepedia.com/finance/business-planning/what-is-project-life-cycle-definition-stages-phases-of-business-project-management"
+                    format="html" scope="external">What is Project Life Cycle?</xref></p>
+        </section>
+        <section id="section_etz_ycv_4pb">
+            <title>CIO Wiki</title>
+            <p><xref href="https://cio-wiki.org/wiki/Project_Life_Cycle" format="html"
+                    scope="external">Project Life Cycle</xref></p>
+        </section>
+        <section id="section_qtr_1dv_4pb">
+            <title>Invensis Global learning services</title>
+            <p><xref href="https://www.invensislearning.com/blog/agile-vs-waterfall-methodology/"
+                    format="html" scope="external">Agile versus Waterfall – Definition, Difference,
+                    Comparison, Pros, Cons and Conclusions</xref></p>
+        </section>
+        <section id="section_ay1_fjm_qpb">
+            <title>IBM</title>
+            <p><xref href="https://www.ibm.com/cloud/blog/agile-vs-waterfall" format="html"
+                    scope="external">Agile versus Waterfall</xref></p>
+        </section>
+        <section id="section_xz2_cdv_4pb">
+            <title>bmc blogs</title>
+            <p><xref href="https://www.bmc.com/blogs/scrum-vs-kanban/" format="html"
+                    scope="external">Scrum versus Kanban: A Comparison of Agile
+                Methodologies</xref></p>
+        </section>
+        <section id="section_xtv_ddv_4pb">
+            <title>Atlassian (Jira software)</title>
+            <p><xref
+                    href="https://www.atlassian.com/software/jira/guides/use-cases/what-is-jira-used-for"
+                    format="html" scope="external">Jira use cases</xref></p>
+        </section>
+    </refbody>
+</reference>

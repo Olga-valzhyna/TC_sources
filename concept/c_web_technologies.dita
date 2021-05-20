@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_web_technologies">
+    <title>WEB technologies</title>
+    <shortdesc>According to Microsoft, web technologies include the following: Mark-up languages,
+        such as <b>HTML and CSS</b>; Programming languages; Web server and server technologies;
+        Databases, and Business applications. </shortdesc>
+    <conbody>
+        <section id="section_rj1_qrm_ppb"><title>HTML</title><p>HTML (Hyper Text Markup Language) is
+                the code that is used to structure a web page and its content. </p><p>HTML is the
+                standard markup language for documents designed to be displayed in a web browser. It
+                can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting
+                languages such as JavaScript.</p><p>HTML consists of a series of elements, which you
+                use to enclose, or wrap, different parts of the content to make it appear a certain
+                way, or act a certain way.</p><p>The main parts of the <b>element</b> are as
+                follows:</p><ol id="ol_ilm_y5m_ppb">
+                <li><b>The opening tag:</b> This consists of the name of the element (in this case,
+                    p), wrapped in opening and closing <b>angle brackets</b>. This states where the
+                    element begins or starts to take effect — in this case where the paragraph
+                    begins.</li>
+                <li><b>The closing tag:</b> This is the same as the opening tag, except that it
+                    includes a <i>forward slash</i> before the element name. This states where the
+                    element ends — in this case where the paragraph ends. Failing to add a closing
+                    tag is one of the standard beginner errors and can lead to strange results.</li>
+                <li><b>The content:</b> This is the content of the element, which in this case, is
+                    just text.</li>
+                <li><b>The element:</b> The opening tag, the closing tag, and the content together
+                    comprise the element.</li>
+            </ol><image href="../image/HTMLtag1.png" id="image_r3b_1vm_ppb" width="500"/><p>Elements
+                can also have attributes that look like the following:</p><image
+                href="../image/HTMLtag2.png" id="image_axf_cvm_ppb" width="500"/><p>Attributes
+                contain extra information about the element that you don't want to appear in the
+                actual content. Here, <codeph>class</codeph> is the attribute <i>name</i> and
+                    <codeph>editor-note</codeph> is the attribute <i>value</i>. The
+                    <codeph>class</codeph> attribute allows you to give the element a non-unique
+                identifier that can be used to target it (and any other elements with the same
+                    <codeph>class</codeph> value) with style information and other things.</p><p>An
+                attribute should always have the following:</p><ol id="ol_tcn_dvm_ppb">
+                <li>A space between it and the element name (or the previous attribute, if the
+                    element already has one or more attributes).</li>
+                <li>The attribute name followed by an equal sign.</li>
+                <li>The attribute value wrapped by opening and closing quotation marks.</li>
+            </ol><p><b>Anatomy of an HTML
+                document</b></p><codeblock id="codeblock_qv2_wwm_ppb">&lt;!DOCTYPE html>
+&lt;html>
+  &lt;head>
+    &lt;meta charset="utf-8">
+    &lt;title>My first page&lt;/title>
+  &lt;/head>
+  &lt;body>
+    &lt;img src="images/Vistula_logo.png" alt="Vistula">
+  &lt;/body>
+&lt;/html></codeblock><p>Here, we have the following:</p><ul id="ul_bsg_1xm_ppb">
+                <li><codeph>&lt;!DOCTYPE html></codeph> — doctype. It is a required preamble, The
+                    Document Type Declaration. If a declaration is not included, various browsers
+                    will revert to “quirks mode” for rendering.</li>
+                <li><codeph>&lt;html>&lt;/html></codeph> — the <codeph>&lt;html></codeph> element.
+                    This element wraps all the content on the entire page and is sometimes known as
+                    the root element.</li>
+                <li><codeph>&lt;head>&lt;/head></codeph> — the <codeph>&lt;head></codeph> element.
+                    This element acts as a container for all the stuff you want to include on the
+                    HTML page that <i>isn't</i> the content you are showing to your page's viewers. </li>
+                <li><codeph>&lt;meta charset="utf-8"></codeph> — This element sets the character set
+                    your document should use to UTF-8 which includes most characters from the vast
+                    majority of written languages.</li>
+                <li><codeph>&lt;title>&lt;/title></codeph> — the <codeph>&lt;title></codeph>
+                    element. This sets the title of your page, which is the title that appears in
+                    the browser tab the page is loaded in.</li>
+                <li><codeph>&lt;body>&lt;/body></codeph> — the <codeph>&lt;body></codeph> element.
+                    This contains <i>all</i> the content that you want to show to web users when
+                    they visit your page, whether that's text, images, videos, games, playable audio
+                    tracks, or whatever else.</li>
+            </ul><image href="../image/structure.png" width="500" id="image_wz3_phn_ppb"
+                    /><p><b>Basic body elements</b></p><ol id="ol_ls3_qzm_ppb">
+                <li><b>Headings</b><p>Heading elements allow you to specify that certain parts of
+                        your content are headings — or subheadings. HTML contains 6 heading levels,
+                            <codeph>&lt;h1></codeph>–<codeph>&lt;h6></codeph>.<codeblock id="codeblock_c1j_t1n_ppb">&lt;h1>My main title&lt;/h1>
+&lt;h2>My top level heading&lt;/h2>
+&lt;h3>My subheading&lt;/h3>
+&lt;h4>My sub-subheading&lt;/h4>
+&lt;h5>My minor title&lt;/h5>
+&lt;h6>My insignificant title&lt;/h6></codeblock></p></li>
+                <li><b>Paragraphs</b><p><codeph>&lt;p></codeph> elements are for containing
+                        paragraphs of text.
+                        <codeblock id="codeblock_a5c_mbn_ppb">&lt;p>This is a single paragraph&lt;/p></codeblock></p></li>
+                <li><b>Lists</b><p>The most common list types are ordered and unordered
+                        lists:</p><ol id="ol_ek1_qbn_ppb">
+                        <li><b>Unordered lists</b> are for lists where the order of the items
+                            doesn't matter, such as a shopping list. These are wrapped in a
+                                <codeph>&lt;ul></codeph>
+                            element.<codeblock id="codeblock_q32_zbn_ppb">&lt;ul>
+    &lt;li>Milk&lt;/li>
+    &lt;li>Cheese
+        &lt;ul>
+            &lt;li>Blue cheese&lt;/li>
+            &lt;li>Feta&lt;/li>
+        &lt;/ul>
+    &lt;/li>
+&lt;/ul></codeblock></li>
+                        <li><b>Ordered lists</b> are for lists where the order of the items does
+                            matter, such as a recipe. These are wrapped in an
+                                <codeph>&lt;ol></codeph>
+                            element.<codeblock id="codeblock_kk1_fcn_ppb">&lt;ol>
+  &lt;li>Mix flour, baking powder, sugar, and salt.&lt;/li>
+  &lt;li>In another bowl, mix eggs, milk, and oil.&lt;/li>
+  &lt;li>Stir both mixtures together.&lt;/li>
+  &lt;li>Fill muffin tray 3/4 full.&lt;/li>
+  &lt;li>Bake for 20 minutes.&lt;/li>
+&lt;/ol></codeblock></li>
+                    </ol><p>Each item inside the lists is put inside an <codeph>&lt;li></codeph>
+                        (list item) element.</p></li>
+                <li><b>Links</b><p>To add a link, use a simple element — <codeph>&lt;a></codeph> —
+                        "a" being the short form for "anchor".
+                    </p><codeblock id="codeblock_pmv_y2n_ppb">&lt;a href="https://techwritersblog.com/">Technical writers blog&lt;/a></codeblock></li>
+                <li><b>Images</b><p>The usage of the <codeph>&lt;img></codeph> element:</p><ul
+                        id="ul_t5d_fgn_ppb">
+                        <li>The <codeph>src</codeph> attribute is <b>required</b>, and contains the
+                            path to the image you want to embed.</li>
+                        <li>The <codeph>alt</codeph> attribute holds a text description of the
+                            image, which isn't mandatory but is <b>incredibly useful</b> for
+                            accessibility — screen readers read this description out to their users
+                            so they know what the image means. </li>
+                    </ul><p>
+                        <codeblock id="codeblock_ykr_1gn_ppb">&lt;img src="images/Vistula_logo.png" alt="Vistula"></codeblock>
+                    </p></li>
+            </ol></section>
+        <section id="section_itg_qrm_ppb"><title>CSS</title><p>Cascading Style Sheets (CSS) is a
+                style sheet language used for describing the presentation of a document written in a
+                markup language such as HTML. CSS is a cornerstone technology of the World Wide Web,
+                alongside HTML and JavaScript.</p><p>CSS is designed to enable the separation of
+                presentation and content, including layout, colors, and fonts. This separation can
+                improve content accessibility, provide more flexibility and control in the
+                specification of presentation characteristics, enable multiple web pages to share
+                formatting by specifying the relevant CSS in a separate .css file which reduces
+                complexity and repetition in the structural content as well as enabling the .css
+                file to be cached to improve the page load speed between the pages that share the
+                file and its formatting.</p><image href="../image/css3.png" id="image_wk5_dhn_ppb"
+                width="500"/><p>Separation of formatting and content also makes it feasible to
+                present the same markup page in different styles for different rendering
+                methods.</p><p>The name cascading comes from the specified priority scheme to
+                determine which style rule applies if more than one rule matches a particular
+                element. This cascading priority scheme is predictable.</p><p>CSS has a simple
+                syntax and uses a number of English keywords to specify the names of various style
+                properties.</p><p>A style sheet consists of a list of rules. Each rule or rule-set
+                consists of one or more selectors, and a declaration block.</p><image
+                href="../image/cssstructure.png" id="image_xpn_ghn_ppb" width="500"/><p>In CSS,
+                selectors declare which part of the markup a style applies to by matching tags and
+                attributes in the markup itself.</p><p>Selectors may apply to the following:</p><ul
+                id="ul_ghn_hhn_ppb">
+                <li>all elements of a specific type, for example the second-level headers h2</li>
+                <li>elements specified by attribute, in particular:<ol id="ol_hhn_hhn_ppb">
+                        <li>id: an identifier unique within the document, identified with a hash
+                            prefix e.g. #id</li>
+                        <li>class: an identifier that can annotate multiple elements in a document,
+                            identified with a period prefix e.g. .classname</li>
+                    </ol></li>
+                <li>elements depending on how they are placed relative to others in the document
+                    tree.</li>
+            </ul><image href="../image/CSSSelectors.png" id="image_fcv_3hn_ppb" width="500"
+                /><p>Classes and IDs are case-sensitive, start with letters, and can include
+                alphanumeric characters, hyphens, and underscores. A class may apply to any number
+                of instances of any elements. An ID may only be applied to a single element.</p><p>A
+                declaration block consists of a list of declarations in braces. Each declaration
+                itself consists of a property, a colon (:), and a value. If there are multiple
+                declarations in a block, a semi-colon (;) must be inserted to separate each
+                declaration. An optional semi-colon after the last (or single) declaration may be
+                used.</p><p>Properties are specified in the CSS standard. Each property has a set of
+                possible values. Some properties can affect any type of element, and others apply
+                only to particular groups of elements.</p><p>Values may be keywords, such as
+                “center” or “inherit”, or numerical values, such as 200px (200 pixels). Color values
+                can be specified with keywords (for example, “red”), hexadecimal values (for
+                example, #FF0000, also abbreviated as #F00), RGB values on a 0 to 255 scale (for
+                example, rgb(255, 0, 0)), RGBA values that specify both color and alpha transparency
+                (for example, rgba(255, 0, 0, 0.8)), or HSL or HSLA values (for example, hsl(000,
+                100%, 50%), hsla(000, 100%, 50%, 80%)).</p><image href="../image/csssheet.png"
+                width="500" id="image_lkc_c3n_ppb"/></section>
+        <section id="section_lrm_qrm_ppb"><title>Difference between HTML and CSS</title><image
+                href="../image/html_css_javascript.png" width="500" id="image_el1_lsm_ppb"/><p>HTML
+                is responsible for structure, CSS for style.</p><image href="../image/htmlcss.jpg"
+                width="500" id="image_rm3_msm_ppb"/><p>HTML stands for Hyper Text Markup Language.
+                CSS - Cascading Style Sheets.</p><image href="../image/hs1.jpg" width="500"
+                id="image_sws_4sm_ppb"/><p>The purpose of HTML is to publish online docs. CSS -
+                design.</p><image href="../image/hs2.jpg" width="500" id="image_dn2_qsm_ppb"
+                /><p>HTML consists of tags. CSS consists of selectors.</p><image
+                href="../image/hs3.jpg" width="500" id="image_n1k_rsm_ppb"/><p>But the general
+                difference looks in the following way:</p><image href="../image/PARHTMLCSS.jpg"
+                width="500" id="image_bxg_ywp_ppb"/></section>
+    </conbody>
+</concept>

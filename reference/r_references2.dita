@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_references2">
+    <title>References</title>
+    <shortdesc>Some useful sites with the tips how to become a technical writer.</shortdesc>
+    <refbody>
+        <section id="section_vz3_jkt_qpb">
+            <title>indeed career guide</title>
+            <p><xref
+                    href="https://www.indeed.com/career-advice/career-development/how-to-become-technical-writer"
+                    format="html" scope="external">How To Become a Technical Writer in Five
+                    Steps</xref></p>
+        </section>
+        <section id="section_wmb_4kt_qpb">
+            <title>Instructional solutions</title>
+            <p><xref href="https://www.instructionalsolutions.com/blog/become-a-technical-writer"
+                    format="html" scope="external">How to Become a Technical Writer: A Beginner’s
+                    Guide</xref></p>
+        </section>
+        <section id="section_gy2_4kt_qpb">
+            <title>wikiHow</title>
+            <p><xref href="https://www.wikihow.com/Become-a-Technical-Writer" format="html"
+                    scope="external">How to Become a Technical Writer</xref></p>
+        </section>
+        <section id="section_qyh_4kt_qpb">
+            <title>Technical writing is easy</title>
+            <p><xref
+                    href="https://medium.com/technical-writing-is-easy/basic-requirements-to-be-a-technical-writer-e4e04bf37b5d"
+                    format="html" scope="external">Basic Requirements to be a Technical
+                    Writer</xref></p>
+        </section>
+        <section id="section_jck_4kt_qpb">
+            <title>Constant Content Blog</title>
+            <p><xref
+                    href="https://www.constant-content.com/content-writing-service/2018/07/13-tips-on-becoming-a-freelance-technical-writer/"
+                    format="html" scope="external">13 Tips on Becoming a Freelance Technical
+                    Writer</xref></p>
+        </section>
+    </refbody>
+</reference>

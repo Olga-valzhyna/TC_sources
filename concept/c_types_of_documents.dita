@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="differentiating_types_of_documents">
+    <title>Types of documents</title>
+    <shortdesc>All the technical documents can be divided into three main groups: Product
+        documentation, Training materials, and Process documentation.</shortdesc>
+    <conbody>
+        <section id="section_c5m_scc_ppb">
+            <title>Product documentation</title>
+            <p>This category of technical communication deliverables deals with user assistance
+                related to products, including installation, usage, maintenance, customization,
+                etc.</p>
+            <ol id="ol_elf_ycc_ppb">
+                <li>
+                    <p><b>User interface texts</b></p>
+                    <p>UI strings, in-app copies, UX copies</p>
+                    <p>User interface text appears on UI surfaces. This text includes control labels
+                        and static text:</p>
+                    <ul id="ul_t1t_4dc_ppb">
+                        <li>Control labels identify controls and are placed directly on or next to
+                            the controls.</li>
+                        <li>Static text, which is so called because it is not part of an interactive
+                            control, provides users with detailed instructions or explanations so
+                            they can make informed decisions.</li>
+                    </ul>
+                </li>
+                <li>
+                    <p><b>Online help</b></p>
+                    <p>Online help is a topic-based document delivered together with software or
+                        operating systems. The document is designed to be displayed on the screen
+                        for immediate assistance when using IT products.</p>
+                    <p>The purpose of online help is to provide the user with quick assistance
+                        directly from the application/module to which it refers.</p>
+                    <p>Online help should consist of topics covering different aspects of a product
+                        itself and its possible usage patterns. </p>
+                </li>
+                <li>
+                    <p><b>User guides</b></p>
+                    <p>A user guide (or user manual) is a document designed to provide assistance
+                        for a particular aspect of a product or solution.</p>
+                    <p>A user guide may serve different purposes and explain the product from
+                        different perspectives. Therefore, depending on usage context and identified
+                        audience needs, many different types of guides can be created, like:</p>
+                    <ul id="ul_omq_ffc_ppb">
+                        <li><b>Administration guides</b> – for assisting users in system
+                            management</li>
+                        <li><b>How-to guides</b> – for guiding the users through a procedure to
+                            achieve a specific goal</li>
+                        <li><b>Implementation guides</b> – for explaining the procedure of enabling
+                            a solution</li>
+                        <li><b>Installation guides</b> – for guiding through product installation
+                            process</li>
+                        <li><b>Quick start guides</b> – for assisting in first-time use of a
+                            product</li>
+                        <li><b>Technical guides</b> – for covering low-level procedures</li>
+                    </ul>
+                    <p>Since a user guide is designed to be read as a whole, it typically has a
+                        book-like structure and is divided into regular chapters supported by images
+                        and diagrams. </p>
+                </li>
+                <li>
+                    <p><b>Mobile apps help</b></p>
+                    <p>This type of documentation is used in the case of software running on mobile
+                        devices: smartphones, tablets, e-book readers, etc. </p>
+                    <p>The purpose of mobile application help is to provide users with instant
+                        assistance concerning the software they are using. This type of
+                        documentation makes it possible to adapt the way content is presented to the
+                        specific character of the user’s device, mainly with respect to screen size
+                        and navigation possibilities.</p>
+                    <p>Since this type of documentation is presented on specific devices, the
+                        structure of the help should be adjusted to their limited field of view and
+                        navigation options. In the case of smaller applications, the documentation
+                        may be limited to only a couple of questions and answers or a single quick
+                        start topic.</p>
+                </li>
+                <li>
+                    <p><b>Knowledge base</b></p>
+                    <p>A knowledge base is a web-based system for gathering information on a
+                        specific subject, including frequently asked questions (FAQ), installation
+                        procedures, quick start articles, usage instructions, etc. </p>
+                    <p>The main purpose of this type of documentation is to gather all available
+                        knowledge on a specific product in one place accessible for end users.</p>
+                    <p>This type of documentation is very flexible in terms of structure, and can be
+                        implemented according to the specific needs of the intended audience.
+                        Depending on the needs, a knowledge base can be divided into different types
+                        of content, like FAQs, articles, forums, tutorials.</p>
+                </li>
+                <li>
+                    <p><b>Release notes</b></p>
+                    <p>This type of documentation provides an overview of changes in a particular
+                        version of a software product. It does not explain features in such detail
+                        as other documentation types.</p>
+                    <p>The purpose of the release notes document is to communicate changes
+                        introduced in a specific version of the product to end users. The changes
+                        may include feature additions and removals, as well as bug fixes and known
+                        issues. </p>
+                    <p>The structure of release notes is typically designed individually in each
+                        organization depending on the requirements and the type of information to be
+                        conveyed. The most popular structure consists of a short introduction
+                        followed by a bulleted list of modifications and/or known issues, together
+                        with the description of their impact on the product that each change
+                        entails.</p>
+                </li>
+                <li>
+                    <p><b>API documentation</b></p>
+                    <p>API documentation is a deliverable providing information on how to use and
+                        interact with an application programming interface (API). It is a concise
+                        guide to an API’s endpoints, their expected parameters and their data types,
+                        as well as possible return values and ormats. API documentation also
+                        frequently includes end-to-end tutorials and detailed example scenarios.</p>
+                    <p>There are two key objectives of API documentation:</p>
+                    <ul id="ul_ywd_bgc_ppb">
+                        <li>To explain the functionality and business value of an API, along with
+                            possible use cases</li>
+                        <li>To provide a quick reference for those working with an API</li>
+                    </ul>
+                    <p>Since API documentation is primarily a source of reference information, it
+                        needs to be easily searchable and is therefore web-based.</p>
+                    <p>This type of documentation is typically produced from code, either completely
+                        automatically or semi-automatically.</p>
+                </li>
+                <li>
+                    <p><b>AR/VR</b></p>
+                    <p><b>Virtual reality (VR)</b> implies a complete immersion experience that
+                        shuts out the physical world. Using VR devices, users can be transported
+                        into a number of real-world and imagined environments.</p>
+                    <p><b>Augmented reality (AR)</b> adds digital elements to a live view, often by
+                        using the camera on a smartphone. It’s simpler than VR and doesn’t require
+                        such complex software and hardware in most cases.</p>
+                </li>
+                <li>
+                    <p><b>Chatbots</b></p>
+                    <p>A chatbot is a software application used to conduct an on-line chat
+                        conversation via text or text-to-speech, in lieu of providing direct contact
+                        with a live human agent. A chatbot is a type of software that can automate
+                        conversations and interact with people through messaging platforms. Designed
+                        to convincingly simulate the way a human would behave as a conversational
+                        partner, chatbot systems typically require continuous tuning and testing,
+                        and many in production remain unable to adequately converse or pass the
+                        industry standard Turing test.</p>
+                    <p>Chatbots are used in dialog systems for various purposes including customer
+                        service, request routing, or information gathering. While some chatbot
+                        applications use extensive word-classification processes, natural language
+                        processors, and sophisticated AI, others simply scan for general keywords
+                        and generate responses using common phrases obtained from an associated
+                        library or database.</p>
+                    <p>Most chatbots are accessed on-line via website popups or through virtual
+                        assistants. They can be classified into usage categories that include:
+                        commerce (e-commerce via chat), education, entertainment, finance, health,
+                        news, and productivity.</p>
+                </li>
+                <li>
+                    <p><b>Infographics</b></p>
+                    <p>Infographics (a clipped compound of “information” and “graphics”) are graphic
+                        visual representations of information, data, or knowledge intended to
+                        present information quickly and clearly. They can improve cognition by
+                        utilizing graphics to enhance the human visual system’s ability to see
+                        patterns and trends. Similar pursuits are information visualization, data
+                        visualization, statistical graphics, information design, or information
+                        architecture. Infographics have evolved in recent years to be for mass
+                        communication, and thus are designed with fewer assumptions about the
+                        readers’ knowledge base than other types of visualizations.</p>
+                </li>
+            </ol>
+        </section>
+        <section id="section_gcm_tcc_ppb">
+            <title>Training materials</title>
+            <p>The technical communication deliverables included in this category are used for
+                facilitating the learning process.</p>
+            <ol id="ol_pr2_1dc_ppb">
+                <li>
+                    <p><b>Presentations</b></p>
+                    <p>Presentations are training and/or informative materials displaying
+                        information in the form of a slide show.</p>
+                    <p>They are used as reference when conducting training sessions or when
+                        presenting information on a particular subject. This type of materials helps
+                        the trainer or presenter maintain a fixed structure of the session and helps
+                        the attendees visualize, understand and memorize the information to be
+                        learned.</p>
+                </li>
+                <li>
+                    <p><b>Classroom trainings</b></p>
+                    <p>Classroom training materials are created for teaching groups of users
+                        gathered in one room.</p>
+                    <p>They are designed to teach attendees how to use a product by explaining
+                        theoretical aspects and conducting practical exercises with the supervision
+                        of a trainer. This kind of training often offers live usage of a product,
+                        which provides possibilities of serving both education and marketing
+                        purposes.</p>
+                </li>
+                <li>
+                    <p><b>eLearnings</b></p>
+                    <p>E-learning is a form of education via the Internet or from physical media. It
+                        makes it possible to complete a course, training session, or even university
+                        education without the need for physical presence in a classroom.</p>
+                    <p>The purpose of e-learning is to provide the attendees with training
+                        possibilities whenever classroom session is not possible or inconvenient to
+                        be organized. This type of training also helps achieve better
+                        cost-efficiency, since it does not require the organizers to involve
+                        trainers, to book a venue or to ship environments. Moreover, e-learning is
+                        designed to be the most accessible form of training – if the technological
+                        requirements are met, it can be completed at any time and any place chosen
+                        by the trainee.</p>
+                </li>
+                <li>
+                    <p><b>Webinars</b></p>
+                    <p>A webinar is an Internet seminar conducted with the use of a webcast
+                        technology providing bi-directional communication between the trainer and
+                        trainees.</p>
+                    <p>Webinars are used for training purposes whenever a classroom session is not
+                        possible and e-learning limitations make it difficult to explain a subject
+                        in a sufficient manner. The interaction with a trainer possible in webinars
+                        provides the attendees with the opportunity to clarify any doubts they might
+                        have in reference to the subject of the training. This type of communication
+                        is also commonly used for demo purposes, as well as for business
+                        contacts.</p>
+                    <p>This type of training may be provided in the form of an online lecture with
+                        audio/video, often accompanied by a presentation. </p>
+                </li>
+            </ol>
+        </section>
+        <section id="section_vzt_tcc_ppb">
+            <title>Process documentation</title>
+            <p>Project documentation is a deliverable required to be created and approved before
+                work on a project can be started. Examples of such documentation include project
+                proposals, requirement specifications, feasibility studies, business cases, etc.</p>
+            <ol id="ol_ykv_bdc_ppb">
+                <li>
+                    <p><b>Project documentation</b></p>
+                    <p>Project documentation is a deliverable required to be created and approved
+                        before work on a project can be started. Examples of such documentation
+                        include project proposals, requirement specifications, feasibility studies,
+                        business cases, etc.</p>
+                    <p>The purpose of the document is to identify the scope of work required to
+                        complete a project, to explain why the project is necessary, and to propose
+                        ways of accomplishing it.</p>
+                    <p>Project documentation is similar to user guides and has a book-like
+                        structure. The main sections that should be present in the document include
+                        problem statement (motivation), objectives (what should be done), problem
+                        solution (how to do it), and project management (who should do it and when
+                        it should be done).</p>
+                </li>
+                <li>
+                    <p><b>Policies and procedures</b></p>
+                    <p>This type of documentation refers to a set of rules, principles and
+                        guidelines created or implemented by an organization in order to achieve its
+                        goals.</p>
+                    <p>Policies and procedures are created in order to systematize the way an
+                        organization should be functioning. </p>
+                    <p>This type of documentation may follow the structure of a short user guide.
+                    </p>
+                </li>
+                <li>
+                    <p><b>Reports</b></p>
+                    <p>A report is an analytical document written to provide data on a particular
+                        subject to a specific audience.</p>
+                    <p>Reports are most commonly requested by managers, business partners, existing
+                        and prospective customers, etc.</p>
+                    <p>The structure of this type of document depends primarily on the purpose and
+                        target audience of the report. </p>
+                </li>
+            </ol>
+        </section>
+    </conbody>
+</concept>

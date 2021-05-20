@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_working_with_github_and_github_pages">
+    <title>GitHub and GitHub Pages</title>
+    <shortdesc>GitHub can be considered as the most popular collaboration platform that is used in
+        developing software.Therefore, it is quite important for anyone who is involved in the
+        process of developing software to learn the basics.</shortdesc>
+    <conbody>
+        <section id="section_gmg_5z3_ppb">
+            <title>GitHub and GIT</title>
+            <p><b>GitHub</b> is a provider of Internet hosting for software development and version
+                control using Git. It offers the distributed version control and source code
+                management (SCM) functionality of Git, plus its own features. It provides access
+                control and several collaboration features such as bug tracking, feature requests,
+                task management, continuous integration and wikis for every project.<b>Git</b> is
+                software for tracking changes in any set of files, usually used for coordinating
+                work among programmers collaboratively developing source code during software
+                development.</p>
+        </section>
+        <section id="section_wvj_5z3_ppb">
+            <title>How to create an account on GitHub</title>
+            <ol id="ol_e54_fcj_ppb">
+                <li>Go to <xref href="https://github.com/join" format="html" scope="external"
+                        >GitHub</xref> in a web browser.</li>
+                <li><p>Enter your personal details. In addition to creating a <b>username</b> and
+                        entering an <b>email address</b>, you’ll also have to create a
+                            <b>password</b>.</p><p><i>Your password must be at least 15 characters
+                            in length or at least 8 characters with at least one number and
+                            lowercase letter.</i></p><image href="../image/GH9.jpg" width="500"
+                        id="image_xl4_32j_ppb"/></li>
+                <li>Click the <b>Create an account</b> button.</li>
+                <li><p>Complete the <b>CAPTCHA</b> puzzle. The instructions vary by puzzle, so just
+                        follow the on-screen instructions to confirm that you are a human.</p><image
+                        href="../image/GH10.jpg" width="500" id="image_b2k_q2j_ppb"/></li>
+                <li>Click the <b>Choose</b> button for your desired plan. Once you select a plan,
+                    GitHub will send an email confirmation message to the address you entered.</li>
+                <li>Click the <b>Verify email</b> address button in the message from GitHub. This
+                    confirms your email address and returns you to the sign-up process.</li>
+                <li>Review your plan selection and click <b>Continue</b>. You can also choose
+                    whether you want to receive updates from GitHub via email by checking or
+                    unchecking the “Send me updates” box.</li>
+                <li>Select your preferences and click <b>Submit</b>. GitHub displays a quick survey
+                    that can help you tailor your experience to match what you’re looking for. Once
+                    you make your selection, you’ll be taken to a screen that allows you to set up
+                    your first repository.</li>
+            </ol>
+        </section>
+        <section id="section_apm_5z3_ppb">
+            <title>How to create a repository</title>
+            <ol id="ol_rdz_scj_ppb">
+                <li><p>Go to the GitHub website, look in the upper right corner, and click the +
+                        sign and then click “New repository.”</p><image href="../image/GH8.jpg"
+                        width="500" id="image_w5k_52j_ppb"/></li>
+                <li>Name the repository, and add a quick description.</li>
+                <li>Decide whether you want this to be a public or a private repository.</li>
+                <li>Click <b>Initialize this repository with a README</b> if you want to include the
+                    README file.</li>
+                <li>Click <b>Create repository</b></li>
+            </ol>
+        </section>
+        <section id="section_blp_5z3_ppb">
+            <title>How to make changes to your README file</title>
+            <ol id="ol_njt_bdj_ppb">
+                <li>Go to your repository.</li>
+                <li>Click the name of the file to bring up that file (for example, click
+                        <b>README.md</b> to go to the readme file).</li>
+                <li><p>Click the pencil icon in the upper right corner of the file and make some
+                        changes.</p><image href="../image/GH6.jpg" width="700"
+                        id="image_whd_y2j_ppb"/></li>
+                <li>Write a short message in the box that describes the changes you made (and an
+                    extended description if you want).</li>
+                <li><p>Click the <b>Commit changes</b> button.</p><image href="../image/GH7.jpg"
+                        width="700" id="image_sw4_1fj_ppb"/></li>
+            </ol>
+        </section>
+        <section id="section_mbt_5z3_ppb">
+            <title>How to fork a repository</title>
+            <ol id="ol_n5t_fdj_ppb">
+                <li>Search for the repository that you need in the search bar.</li>
+                <li>Select the one you need among the repositories.</li>
+                <li><p>Press <b>Fork button</b> to initiate the git forking process.</p><image
+                        href="../image/GH5.jpg" id="image_pjb_ffj_ppb" width="700"/></li>
+                <li>The repository will be forked to your account instantly. This can be seen by
+                    your username after forking the repository.</li>
+                <li>If you want to store the repo on your local machine, on the right side of the
+                    screen, below the <b>Contributors</b> tab, you’ll see a green button that says
+                        <b>Clone or Download</b>. Go ahead and click that.</li>
+            </ol>
+        </section>
+        <section id="section_scw_5z3_ppb">
+            <title>How to invite collaborators to your repository</title>
+            <ol id="ol_dyj_ldj_ppb">
+                <li><p>Under your repository name, click <b>Settings</b>.</p><image
+                        href="../image/GH1.jpg" id="image_e53_3fj_ppb" width="700"/></li>
+                <li><p>In the left sidebar, click <b>Manage access</b>.</p><image
+                        href="../image/GH2.jpg" id="image_bng_jfj_ppb" width="700"/></li>
+                <li><p>Click <b>Invite a collaborator</b>.</p><image href="../image/GH3.jpg"
+                        id="image_bxb_kfj_ppb" width="700"/></li>
+                <li><p>In the search field, start typing the name of the person you want to invite,
+                        then click a name in the list of matches.</p><image href="../image/GH4.jpg"
+                        id="image_cg1_lfj_ppb" width="700"/></li>
+                <li>Click Add NAME to REPOSITORY.</li>
+                <li>The users will receive an email inviting them to the repository. Once they
+                    accept your invitation, they will have collaborator access to your
+                    repository.</li>
+            </ol>
+        </section>
+        <section id="section_kcz_5z3_ppb">
+            <title>GitHub Pages</title>
+            <p>GitHub Pages is a service that hosts static websites, which can generate websites
+                directly from source Markdown files hosted on a GitHub repository. If you know how
+                to use GitHub and you need to create a simple webpage, you can’t do better than
+                GitHub Pages. It is an example of the most basic way of hosting a website for free
+                on the Internet. Just create a new repository on GitHub, commit the Markdown files,
+                and enable the GitHub Pages feature. In order to start working with GitHub Pages,
+                follow the instruction.</p>
+            <ol id="ol_tbh_5dj_ppb">
+                <li><p>Create a new public repository named <b>username.github.io</b>, where
+                        username is your username (or organization name) on <b>GitHub</b>.</p><image
+                        href="../image/P1.jpg" id="image_r5b_4fj_ppb" width="700"/></li>
+                <li><p>Clone the new repository with the help of <b>GitHub Desktop</b> to your local
+                        folder.</p><image href="../image/P2.jpg" id="image_kf5_4fj_ppb" width="700"
+                    /></li>
+                <li>Enter the project folder and add an <b>.md</b> file, using <b>Studio Visual
+                        Code</b>(or any other text editor).</li>
+                <li><p>Check changes in <b>GitHub Desktop</b>. Commit and push them.</p><image
+                        href="../image/P3.jpg" id="image_e1p_pfj_ppb" width="700"/></li>
+                <li>Go to <b>https://username.github.io</b>.</li>
+            </ol>
+        </section>
+    </conbody>
+</concept>

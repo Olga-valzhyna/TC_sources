@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_references5">
+    <title>References</title>
+    <shortdesc>The following resources are used as the core materials of the chapter "Basic
+        technologies".</shortdesc>
+    <refbody>
+        <section id="section_gs1_cp1_rpb">
+            <title>Formats</title>
+            <p><xref href="https://en.wikipedia.org/wiki/Microsoft_Word" format="html"
+                    scope="external">Microsoft Word</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/LaTeX" format="html" scope="external"
+                    >LaTex</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/HTML" format="html" scope="external"
+                    >HTML</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/XML" format="html" scope="external"
+                    >XML</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/JSON" format="html" scope="external"
+                    >JSON</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Doxygen" format="html" scope="external"
+                    >Doxygen</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Javadoc" format="html" scope="external"
+                    >Javadoc</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Pydoc" format="html" scope="external"
+                    >Pydoc</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Markdown" format="html" scope="external"
+                    >Markdown</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/PDF" format="html" scope="external"
+                    >PDF</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help" format="html"
+                    scope="external">Help (.chm - Windows)</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Tooltip" format="html" scope="external"
+                    >Tooltip</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Wiki" format="html" scope="external"
+                    >Wiki</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Microsoft_Excel" format="html"
+                    scope="external">Excel</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Computer-assisted_translation"
+                    format="html" scope="external">CAT tools</xref></p>
+        </section>
+        <section id="section_gd2_x41_rpb">
+            <title>Markdown</title>
+            <p><xref href="https://commonmark.org/help/tutorial/index.html" format="html"
+                    scope="external">Markdown tutorial</xref></p>
+            <p><xref href="https://sodocumentation.net/markdown/topic/1865/dialects-flavours"
+                    format="html" scope="external">Markdown dialects/flavours</xref></p>
+            <p><xref href="https://github.com/mundimark/awesome-markdown" format="html"
+                    scope="external">A collection of markdown goodies</xref></p>
+        </section>
+        <section id="section_wzg_cp1_rpb">
+            <title>Graphical elements</title>
+            <p><xref href="https://www.psprint.com/resources/difference-between-raster-vector/"
+                    format="html" scope="external">What’s the difference between Raster and
+                    Vector?</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Raster_graphics" format="html"
+                    scope="external">Wikipedia: Raster graphics</xref></p>
+            <p><xref href="https://en.wikipedia.org/wiki/Vector_graphics" format="html"
+                    scope="external">Wikipedia: Vector graphics</xref></p>
+        </section>
+        <section id="section_a2l_cp1_rpb">
+            <title>GitHub and GitHub Pages</title>
+            <p><xref href="https://docs.github.com/en/github/getting-started-with-github"
+                    format="html" scope="external">Getting started with GitHub</xref></p>
+            <p><xref
+                    href="https://guides.github.com/features/pages/#:~:text=Your%20website%E2%80%99s%20files%20will%20live%20in%20a%20repository,see%20the%20GitHub%20Pages%20section%20near%20the%20bottom."
+                    format="html" scope="external">Getting started with GitHub Pages</xref></p>
+        </section>
+        <section id="section_vjr_cp1_rpb">
+            <title>Just-the-Docs and Jekyll</title>
+            <p><xref href="https://pmarsceill.github.io/just-the-docs/" format="html"
+                    scope="external">Just-the-Docs</xref></p>
+            <p><xref href="https://jekyllrb.com/" format="html" scope="external">Jekyll</xref></p>
+            <p><xref
+                    href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll"
+                    format="html" scope="external">Setting up a GitHub Pages site with
+                Jekyll</xref></p>
+        </section>
+    </refbody>
+</reference>

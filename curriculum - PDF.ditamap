@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Curriculum</title>
+    <topicref href="concept/c_technical_communication_at_vistula.dita"/>
+    <topicref href="concept/c_a_profession_of_technical_writer.dita"/>
+    <topicref href="concept/c_technical_text.dita">
+        <topicref href="concept/c_types_of_documents.dita"/>
+        <topicref href="concept/c_document_development_life_cycle.dita"/>
+        <topicref href="concept/c_important_aspects_of_writing.dita"/>
+    </topicref>
+    <topicref href="concept/c_web_technologies.dita"/>
+    <topicref href="concept/c_basic_technologies.dita">
+        <topicref href="concept/c_input_and_output_formats.dita"/>
+        <topicref href="concept/c_markdown.dita"/>
+        <topicref href="concept/c_graphical_elements.dita"/>
+        <topicref href="concept/c_github_and_github_pages.dita"/>
+        <topicref href="concept/c_just_the_docs_and_jekyll.dita"/>
+    </topicref>
+    <topicref href="concept/c_tools.dita">
+        <topicref href="concept/c_madcap_flare.dita"/>
+        <topicref href="concept/c_dita_and_oxygen.dita"/>
+        <topicref href="concept/c_localization_and_memoq.dita"/>
+    </topicref>
+    <topicref href="concept/c_project_management.dita">
+        <topicref href="concept/c_waterfall_and_agile.dita"/>
+        <topicref href="concept/c_project_life_cycle.dita"/>
+        <topicref href="concept/c_jira.dita"/>
+    </topicref>
+    <topicref href="concept/c_itcqf_certification.dita"/>
+    <topicref href="glossary/g_glossary.dita"/>
+</map>

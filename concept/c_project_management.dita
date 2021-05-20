@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_project_management">
+    <title>Project management</title>
+    <shortdesc>Project management is the application of knowledge, skills, techniques, processes,
+        expertise, and tools in order to meet project goals and requirements within a specific
+        timeframe.</shortdesc>
+    <conbody>
+        <p>Projects are, essentially, just a means towards a specific business goal. They are a
+            system of tasks and resources, all working together towards a common outcome that
+            supports a certain business direction.</p>
+        <image href="../image/project_management.jpg" width="500" id="image_j4h_b5k_4pb">
+            <alt>Project management</alt>
+        </image>
+        <p>While projects will naturally vary between companies and industries, all should contain
+            four core elements that make up the basics of project management:<b> scope, resources,
+                time and money</b>.</p>
+        <section id="section_sgg_g5k_4pb">
+            <title>Scope</title>
+            <p>The scope of a project refers to its size, goals and the requirements needed to
+                achieve the desired outcome. Scope is perhaps the most important project element to
+                clearly nail down before starting work. Changes in scope and unclear goals can all
+                contribute to an exhaustion of project resources, missed deadlines or, even worse,
+                the failure of the project altogether.</p>
+        </section>
+        <section id="section_tgg_g5k_4pb">
+            <title>Resources</title>
+            <p>This refers to all human and material resources at your disposal to achieve your
+                goal. This can be employees, freelancers, tools, software, etc. Having a clear view
+                of your resources allows project managers to leverage them in the most efficient way
+                possible the project goals.</p>
+        </section>
+        <section id="section_ugg_g5k_4pb">
+            <title>Time</title>
+            <p>This includes both overall time for a project, from conception through to completion,
+                as well as time requirements for specific tasks. Having clear breakdown of your
+                required tasks, their lead times, dependencies and the “critical path” to project
+                completion allows project managers to manage their resources smarter and more
+                efficiently.</p>
+        </section>
+        <section id="section_vgg_g5k_4pb">
+            <title>Money</title>
+            <p>You should have a firm grasp on the cost of the project, and the potential profit it
+                will generate for your business. Executing a simple cost-benefit analysis for your
+                project will help you determine if the scope is too large, too small or if it’s even
+                worthwhile at all.</p>
+        </section>
+    </conbody>
+</concept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_references4">
+    <title>References</title>
+    <shortdesc>HTML and CSS tutorials are available on the Internet.</shortdesc>
+    <refbody>
+        <section id="section_agb_ytp_qpb">
+            <title>w3schools HTML</title>
+            <p><xref href="https://www.w3schools.in/category/html-tutorial/" format="html"
+                    scope="external">HTML tutorial - 21 lessons for free</xref></p>
+        </section>
+        <section id="section_awy_m5p_qpb">
+            <title>Periodic Table of HTML5 Elements</title>
+            <p><xref
+                    href="https://www.calcresult.com/reference/development/HTML5-periodic-table.html"
+                    format="html" scope="external">Groups of elements</xref></p>
+        </section>
+        <section id="section_zcp_1vp_qpb">
+            <title>All the tags of HTML</title>
+            <p><xref href="https://allthetags.com/" format="html" scope="external">Tags with
+                    examples</xref></p>
+        </section>
+        <section id="section_tlg_3wp_qpb">
+            <title>MDN web docs (mozilla)</title>
+            <p><xref href="https://developer.mozilla.org/en-US/docs/Web/HTML" format="html"
+                    scope="external">HTML: HyperText Markup Language tutorials</xref></p>
+        </section>
+        <section id="section_dj1_jvp_qpb">
+            <title>w3schools CSS</title>
+            <p><xref href="https://www.w3schools.in/category/css3/" format="html" scope="external"
+                    >CSS tutorial - 25 lessons for free</xref></p>
+        </section>
+        <section id="section_nqj_qvp_qpb">
+            <title>Periodic Table of CSS3 Syntax</title>
+            <p><xref href="https://www.calcresult.com/reference/development/CSS-syntax-table.html"
+                    format="html" scope="external">Groups of attributes</xref></p>
+        </section>
+        <section id="section_dmh_bwp_qpb">
+            <title>MDN web docs (mozilla)</title>
+            <p><xref href="https://developer.mozilla.org/en-US/docs/Web/CSS#tutorials" format="html"
+                    scope="external">CSS: Cascading Style Sheets tutorials</xref></p>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_itcqf_certification">
+    <title>ITCQF certification</title>
+    <shortdesc>International Technical Communication Qualifications Foundation is a certification
+        program of technical communication which is based on international standards.</shortdesc>
+    <conbody>
+        <section id="section_nrp_vvr_4pb"><title>Training</title><p>ITCQF® Foundation Level training
+                is a course which lasts for two days and can be held in class or online. It fully
+                covers the content of the syllabus and supplements it with graphical summaries,
+                practical examples and excercises.</p><image href="../image/ITCQF.png"
+                id="image_alw_m1s_4pb">
+                <alt>ITCQF</alt>
+            </image><p><xref href="https://itcqf.org/training/" format="html" scope="external">ITCQF
+                    training</xref></p></section>
+        <section id="section_ty1_wvr_4pb">
+            <title>Exams</title>
+            <p>ITCQF® exams are organized in a consistent way worldwide and are based on a precisely
+                defined number of questions, distributed in accordance to the syllabus topics.</p>
+            <p><xref href="https://itcqf.org/exams/" format="html" scope="external">ITCQF
+                    exams</xref></p>
+        </section>
+        <section id="section_opj_wvr_4pb">
+            <title>Materials</title>
+            <p>There are 3 PDF documents that can be downloaded: ITCQF® Overview, The value of
+                techwriting, and Syllabus (version 2.0)</p>
+            <p><xref href="https://itcqf.org/materials/" format="html" scope="external">ITCQF
+                    materials</xref></p>
+        </section>
+        <section id="section_vfp_wvr_4pb">
+            <title>Community</title>
+            <p>ITCQF® partnership model offers three basic types of cooperation – board, accredited
+                training providers and certification bodies. </p>
+            <p><xref href="https://itcqf.org/community/" format="html" scope="external">ITCQF
+                    community</xref></p>
+        </section>
+    </conbody>
+</concept>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_using_madcap_flare">
+    <title>MadCap Flare</title>
+    <shortdesc>MadCap Flare — a native XML content authoring application, which offers single-source
+        authoring in an environment that does not require to know any coding. </shortdesc>
+    <conbody>
+        <section id="section_i21_f1c_ppb"><title>Workflow</title><p>From a single Flare project you
+                can produce output in many different formats, including documentation for the web,
+                desktop, print, and mobile.</p><image href="../image/FlareWorkflow.png" width="500"
+                id="image_lfx_g1c_ppb"/></section>
+        <section id="section_yvm_mbc_ppb">
+            <title>Process</title>
+            <p>When you break down the authoring process in Flare, you will discover that it can be
+                quite simple. Following are the basic steps that you need to follow for creating and
+                developing a project in Flare.</p>
+            <ol id="ol_ks5_dbc_ppb">
+                <li><b>Start Projects</b> Create a project from scratch, or start a project by
+                    importing existing content from a variety of sources.</li>
+                <li><b>Add Content and Features</b> Add content and features, such as topics, text,
+                    a table of contents,cross-references, navigation, page layouts, and all of the
+                    other elements necessary to help your end users.</li>
+                <li><b>Design</b> Through the use of features such as stylesheets, skins, page
+                    layouts, master pages, and more, you can design a look and feel for your
+                    output.</li>
+                <li><b>Develop Targets</b> Decide the type(s) of output formats that you want to
+                    generate and develop targets accordingly to meet your needs.</li>
+                <li><b>Build and Distribute Output</b> Generate output from a target, then make the
+                    files accessible to your end users.<image href="../image/Tricityoutput.jpg"
+                        width="700" id="image_tbl_qtx_qpb"/></li>
+            </ol>
+        </section>
+        <section id="section_ihj_nbc_ppb"><title>Interface</title><p>Flare uses a modern Multiple
+                Document Interface (MDI) that provides you many options to work the way that you
+                want.</p><p>It has the following main sections:</p><image
+                href="../image/madcapflareinterface.png" width="700" id="image_nqt_gbc_ppb"/><ol
+                id="ol_oqt_gbc_ppb">
+                <li><b>Top–Ribbons</b>: This section contains all the features and menus.</li>
+                <li><b>Left–Pane</b>: This section contains many explorers to access all the madcap
+                    flare files. You will find all your content files in this section. This section
+                    has the following tabs:<ul id="ul_pqt_gbc_ppb">
+                        <li><b>Content Explorer</b>: In general you will find all your styles and
+                            content related files in this tab; for example, topics, stylesheets,
+                            master pages, and many more.</li>
+                        <li><b>Project Explorer</b>: You will find all your output related files in
+                            this tab; for example, target files, table of contents, condition tags,
+                            variables, and many more.</li>
+                    </ul></li>
+                <li><b>Right–Pane</b>: This pane has the following tabs:<ul id="ul_qqt_gbc_ppb">
+                        <li>Find and Replace</li>
+                        <li>Styles</li>
+                        <li>Dynamic help</li>
+                    </ul></li>
+                <li><b>Bottom–Pane</b>: You will see your build progress window and messages window
+                    in this pane.</li>
+                <li><b>Middle-section</b>: You can see many of the flare files editors in this
+                    section; such as XML editor, TOC editor, Stylesheet editor. When you start the
+                    madcap flare application, you will find a start page appearing in this window,
+                    which you can use to perform some high-level tasks and access information.</li>
+            </ol><note id="note_ptj_pkx_qpb">
+                <p><xref href="https://www.youtube.com/watch?v=t0lD9ayj46k" format="html"
+                        scope="external"><u>Video - Official Webinar: An Overview of MadCap
+                            Flare</u></xref></p>
+            </note></section>
+    </conbody>
+</concept>

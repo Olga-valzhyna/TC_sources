@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_technacal_communication_at_vistula">
+    <title>Technical communication at Vistula</title>
+    <shortdesc>Technical communication is the process of defining, creating and delivering
+        information products for the safe, efficient and effective use of products (technical
+        systems, software, services). </shortdesc>
+    <conbody>
+        <section id="section_jfp_5ln_ppb"><title>Technical communication</title><p>Technical
+                communicators may put the information they capture into paper documents, web pages,
+                computer-based training, digitally stored text, audio, video, and other
+                media.</p><p>Today, effective technical communication is more important than ever.
+                We live in an age in which whole industries are built around the development,
+                retention and application of information.A technical writer is a professional writer
+                that communicates complex information. Essentially, technical writers break down
+                complex technical products into easy-to-understand guides that help the end-user
+                understand how to use the products and services.</p><image href="../image/TW.jpg"
+                width="500" id="image_fkb_lln_ppb"/></section>
+        <section id="section_pzp_yln_ppb"><title>Vistula course</title><p><b>Technical writer,
+                    Information Developer, Documentation Specialist, UX Writer, Content Designer,
+                    Documentation Engineer, Content Writer, User Assistance Specialist, Information
+                    engineer, Information Architect</b> - are the positions you can choose between
+                after the course of “Technical Communication” at Vistula University.</p><image
+                href="../image/Vist1.jpg" width="500" id="image_i2r_4ln_ppb"/><p>The students are
+                provided with a professional set of tools. </p><image href="../image/Vist3.jpg"
+                width="500" id="image_d2d_rln_ppb"/><p>The course is realizied with the help of the
+                partners:</p><image href="../image/Vist4.jpg" width="500" id="image_wgg_sln_ppb"
+            /></section>
+        <section id="section_fgj_1mn_ppb">
+            <title>Curriculum of the course</title>
+            <table frame="all" rowsep="1" colsep="1" id="table_qkm_mmn_ppb">
+                <title>Subjects</title>
+                <tgroup cols="2" align="center">
+                    <colspec colname="c1" colnum="1" colwidth="1.38*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Subject</entry>
+                            <entry>Hours</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Technical Communication</entry>
+                            <entry>20</entry>
+                        </row>
+                        <row>
+                            <entry>Technical text</entry>
+                            <entry>25</entry>
+                        </row>
+                        <row>
+                            <entry>WEB technologies</entry>
+                            <entry>10</entry>
+                        </row>
+                        <row>
+                            <entry>Basic technologies of Technical Communication</entry>
+                            <entry>25</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Techniques and tools applied in technical documentation</entry>
+                            <entry>50</entry>
+                        </row>
+                        <row>
+                            <entry>Project, process and team management</entry>
+                            <entry>20</entry>
+                        </row>
+                        <row>
+                            <entry>ITCQF certification</entry>
+                            <entry>20</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </conbody>
+</concept>

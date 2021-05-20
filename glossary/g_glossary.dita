@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="duck_equipment">
+    <title>Glossary</title>
+    <?There are 40 terms that can help a beginner understand the content of the course "Technical communication"?>
+    <glossentry id="binoculars">
+        <glossterm>Agile</glossterm>
+        <glossdef>
+            <p>A system of methods designed to allow the development team to match and track the
+                business needs, especially in a context where business needs change frequently,
+                important facts change, or where we are obliged to adapt to important uncontrolled
+                factors.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="duck_bait">
+        <glossterm>Camtasia</glossterm>
+        <glossdef>
+            <p>A software suite, created and published by <xref
+                    href="https://en.wikipedia.org/wiki/TechSmith" format="html" scope="external"
+                    >TechSmith</xref>, for creating video tutorials and presentations directly via
+                screencast, or via a direct recording plug-in to Microsoft PowerPoint. </p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="duck_call">
+        <glossterm>CAT</glossterm>
+        <glossdef>Computer-aided translation (CAT), also referred to as machine-assisted translation
+            (MAT) or machine-aided human translation (MAHT), is the use of software to assist a
+            human translator in the translation process. The translation is created by a human, and
+            certain aspects of the process are facilitated by software; this is in contrast with
+            machine translation (MT), in which the translation is created by a computer, optionally
+            with some human intervention.</glossdef>
+    </glossentry>
+    <glossentry id="spotting_scope">
+        <glossterm>Confluence</glossterm>
+        <glossdef>
+            <p>A web-based corporate <xref href="https://en.wikipedia.org/wiki/Wiki" format="html"
+                    scope="external">wiki</xref> (collaboration software) developed by Australian
+                software company <xref href="https://en.wikipedia.org/wiki/Atlassian" format="html"
+                    scope="external">Atlassian</xref>.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_x2h_nlr_1pb">
+        <glossterm>Content strategy</glossterm>
+        <glossdef>
+            <p>A repeatable system that defines the entire editorial <xref
+                    href="https://en.wikipedia.org/wiki/Content_development_(web)" format="html"
+                    scope="external">content development</xref> process for a website development
+                project.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_gjn_nlr_1pb">
+        <glossterm>CSS</glossterm>
+        <glossdef>
+            <p>Cascading Style Sheets (CSS) is a style sheet language used for describing the
+                presentation of a document written in a <xref
+                    href="https://en.wikipedia.org/wiki/Markup_language" format="html"
+                    scope="external">markup language</xref> such as <xref
+                    href="https://en.wikipedia.org/wiki/HTML" format="html" scope="external"
+                    >HTML</xref>. CSS is a cornerstone technology of the <xref
+                    href="https://en.wikipedia.org/wiki/World_Wide_Web" format="html"
+                    scope="external">World Wide Web</xref>, alongside HTML and <xref
+                    href="https://en.wikipedia.org/wiki/JavaScript" format="html" scope="external"
+                    >JavaScript.</xref></p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_ugs_nlr_1pb">
+        <glossterm>Customer journey map</glossterm>
+        <glossdef>
+            <p>A visual representation of the customer journey (also called the buyer journey or
+                user journey). It tells the story of customers’ experiences with a certain brand
+                across all touchpoints. </p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_cyw_nlr_1pb">
+        <glossterm>Customer persona</glossterm>
+        <glossdef>
+            <p>A semi-fictional depiction of an ideal buyer based on market research and actual data
+                about present consumers. It encompasses consumer demographics, behavior patterns,
+                motivations, and objectives.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_lqw_xk3_qpb">
+        <glossterm>DDLC</glossterm>
+        <glossdef>
+            <p>Documentation Development Life Cycle (DDLC) is the process of developing the document
+                that involves a systematic process that continues in cyclic order.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_gw1_4lr_1pb">
+        <glossterm>DITA</glossterm>
+        <glossdef>
+            <p>The Darwin Information Typing Architecture (DITA) specification defines a set of
+                document types for authoring and organizing topic-oriented information, as well as a
+                set of mechanisms for combining, extending, and constraining document types.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_kxh_4lr_1pb">
+        <glossterm>Git</glossterm>
+        <glossdef>
+            <p>Software for tracking changes in any set of files, usually used for coordinating work
+                among programmers collaboratively developing source code during software
+                development.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_ppc_tk3_qpb">
+        <glossterm>GitHub</glossterm>
+        <glossdef>
+            <p>A provider of Internet hosting for software development and version control using
+                Git. It offers the distributed version control and source code management (SCM)
+                functionality of Git, plus its own features.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_jvv_tk3_qpb">
+        <glossterm>GitHub Pages</glossterm>
+        <glossdef>
+            <p>A static web hosting service offered by GitHub to GitHub users for hosting user
+                blogs, project documentation, or even whole books created as a page.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_xx1_5k3_qpb">
+        <glossterm>HTML</glossterm>
+        <glossdef>
+            <p>The HyperText Markup Language, or HTML is the standard <xref
+                    href="https://en.wikipedia.org/wiki/Markup_language" format="html"
+                    scope="external">markup language</xref> for documents designed to be displayed
+                in a <xref href="https://en.wikipedia.org/wiki/Web_browser" format="html"
+                    scope="external">web browser</xref>. It can be assisted by technologies such as
+                    <xref href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" format="html"
+                    scope="external">Cascading Style Sheets</xref> (CSS) and <xref
+                    href="https://en.wikipedia.org/wiki/Scripting_language" format="html"
+                    scope="external">scripting languages</xref> such as <xref
+                    href="https://en.wikipedia.org/wiki/JavaScript" format="html" scope="external"
+                    >JavaScript</xref>.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_vj2_5k3_qpb">
+        <glossterm>ITCQF</glossterm>
+        <glossdef>
+            <p>International Technical Communication Qualifications Foundation (ITCQF) is a
+                comprehensive technical communication certification program developed in cooperation
+                with recognized tech comm experts, and based on existing international
+                standards.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_sg3_5k3_qpb">
+        <glossterm>JavaScript</glossterm>
+        <glossdef>
+            <p>One of the core technologies of the <xref
+                    href="https://en.wikipedia.org/wiki/World_Wide_Web" format="html"
+                    scope="external">World Wide Web</xref>. Over 97% of websites use it client-side
+                for web page behavior, often incorporating third-party libraries. All major web
+                browsers have a dedicated <xref
+                    href="https://en.wikipedia.org/wiki/JavaScript_engine" format="html"
+                    scope="external">JavaScript engine</xref> to execute the code on the user's
+                device.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_nyl_5k3_qpb">
+        <glossterm>Jekyll</glossterm>
+        <glossdef>
+            <p>a simple, blog-aware, <xref
+                    href="https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators"
+                    format="html" scope="external">static site generator</xref> for personal,
+                project, or organization sites. Written in <xref
+                    href="https://en.wikipedia.org/wiki/Ruby_(programming_language)" format="html"
+                    scope="external">Ruby</xref> by Tom Preston-Werner, <xref
+                    href="https://en.wikipedia.org/wiki/GitHub" format="html" scope="external"
+                    >GitHub</xref>'s co-founder, it is distributed under the open source MIT
+                license.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_yfp_5k3_qpb">
+        <glossterm>Jira</glossterm>
+        <glossdef>
+            <p>A proprietary issue tracking product developed by <xref
+                    href="https://en.wikipedia.org/wiki/Atlassian" format="html" scope="external"
+                    >Atlassian</xref> that allows <xref
+                    href="https://en.wikipedia.org/wiki/Bug_tracking_system" format="html"
+                    scope="external">bug tracking</xref> and <xref
+                    href="https://en.wikipedia.org/wiki/Agile_software_development" format="html"
+                    scope="external">agile</xref>
+                <xref href="https://en.wikipedia.org/wiki/Project_management" format="html"
+                    scope="external">project management</xref>.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_xrs_5k3_qpb">
+        <glossterm>Just-the-Docs</glossterm>
+        <glossdef>
+            <p>A modern, highly customizable, and responsive Jekyll theme for documentation with
+                built-in search, easily hosted on GitHub Pages.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_kgw_5k3_qpb">
+        <glossterm>Kanban</glossterm>
+        <glossdef>
+            <p>A workflow management method for defining, managing and improving services that
+                deliver knowledge work. It aims to visualize work, maximize efficiency, and improve
+                continuously.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_d51_vk3_qpb">
+        <glossterm>Localization</glossterm>
+        <glossdef>
+            <p>The process of adapting a product's translation to a specific country or region.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_vk2_vk3_qpb">
+        <glossterm>MadCap</glossterm>
+        <glossdef>
+            <p>A single-sourcing, topic-based authoring platform, which uses XML markup for maximum
+                flexibility. MadCap Flare allows technical writers and documentation specialists to
+                create, manage and publish content to a variety of languages and outputs.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_yxh_vk3_qpb">
+        <glossterm>Markdown</glossterm>
+        <glossdef>
+            <p>A lightweight markup language for creating formatted text using a plain-text editor,
+                widely used in blogging, instant messaging, online forums, collaborative software,
+                documentation pages, and readme files.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_v1m_vk3_qpb">
+        <glossterm>MemoQ</glossterm>
+        <glossdef>
+            <p>A proprietary computer-assisted translation software suite which provides <xref
+                    href="https://en.wikipedia.org/wiki/Translation_memory" format="html"
+                    scope="external">translation memory</xref>, terminology, <xref
+                    href="https://en.wikipedia.org/wiki/Machine_translation" format="html"
+                    scope="external">machine translation</xref> integration and reference
+                information management in desktop, client/server and web application
+                environments.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_oyp_vk3_qpb">
+        <glossterm>Oxygen</glossterm>
+        <glossdef>
+            <p>An all-purpose XML editor that supports a broad variety of XML-based technologies,
+                including “transformation scenarios” that turn DITA input into HTML or PDF output.
+            </p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_mbw_vk3_qpb">
+        <glossterm>PLC</glossterm>
+        <glossdef>
+            <p>Project life cycle (PLC) is a workflow of activities defined in the systematic ways
+                to gain maximum benefits from a business project. PLC consists of four main phases
+                through which the Project Manager and his team try to achieve the objectives that
+                the project itself sets.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_rl1_wk3_qpb">
+        <glossterm>Project Management</glossterm>
+        <glossdef>
+            <p>The process of leading the work of a team to achieve goals and meet success criteria
+                at a specified time. The primary challenge of project management is to achieve all
+                of the project goals within the given constraints.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_vj2_wk3_qpb">
+        <glossterm>Raster image</glossterm>
+        <glossdef>
+            <p>A way to represent digital images. It can be created in a wide variety of formats,
+                including the familiar .gif, .jpg, and .bmp. The image is represented in a series of
+                bits of information that translate into pixels on the screen.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_a33_wk3_qpb">
+        <glossterm>Scrum</glossterm>
+        <glossdef>
+            <p>A framework utilizing an <xref
+                    href="https://en.wikipedia.org/wiki/Agile_software_development" format="html"
+                    scope="external">agile</xref> mindset for developing, delivering, and sustaining
+                complex products, with an initial emphasis on <xref
+                    href="https://en.wikipedia.org/wiki/Software_development" format="html"
+                    scope="external">software development</xref>.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_fxl_wk3_qpb">
+        <glossterm>SME</glossterm>
+        <glossdef>
+            <p>A subject-matter expert (SME) is a person who is an authority in a particular area or
+                topic.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_n54_wk3_qpb">
+        <glossterm>Snagit</glossterm>
+        <glossdef>
+            <p>A screenshot program that captures video display and audio output, created and
+                distributed by <xref href="https://en.wikipedia.org/wiki/TechSmith" format="html"
+                    scope="external">TechSmith</xref>
+            </p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_ocs_wk3_qpb">
+        <glossterm>STE</glossterm>
+        <glossdef>
+            <p>Simplified Technical English (STE) is a controlled language developed to help
+                second-language speakers of English to unambiguously understand technical manuals
+                written in English. </p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_llv_wk3_qpb">
+        <glossterm>Style guide</glossterm>
+        <glossdef>
+            <p>A set of standards for the writing, formatting and design of documents.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_xdz_wk3_qpb">
+        <glossterm>Technical communication</glossterm>
+        <glossdef>
+            <p>A practice-oriented field that emphasizes detailed, problem-solving tactics, such as
+                analysis, research, design, and production to communicate intricate information
+                effectively.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_kqc_xk3_qpb">
+        <glossterm>Technical writer</glossterm>
+        <glossdef>
+            <p>A professional information communicator whose task is to transfer information between
+                two or more parties, through any medium that best facilitates the transfer and
+                comprehension of the information.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_zcg_xk3_qpb">
+        <glossterm>Vector images</glossterm>
+        <glossdef>
+            <p>Graphical representations of mathematical objects such as lines, curves, polygons and
+                its like. These graphics are generated by computer and they follow x and y axis as
+                their reference definition.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_vgj_xk3_qpb">
+        <glossterm>Vistula</glossterm>
+        <glossdef>
+            <p>Akademia Finansów i Biznesu Vistula - a non-public academic higher education
+                institution based in Warsaw. </p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_qqm_xk3_qpb">
+        <glossterm>Visual Studio Code</glossterm>
+        <glossdef>
+            <p>A freeware source-code editor made by Microsoft. Features include support for
+                debugging, syntax highlighting, intelligent code completion, snippets, code
+                refactoring, and embedded <xref href="https://en.wikipedia.org/wiki/Git"
+                    format="html" scope="external">Git</xref>. </p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_xyp_xk3_qpb">
+        <glossterm>Waterfall</glossterm>
+        <glossdef>
+            <p>A breakdown of project activities into linear sequential phases, where each phase
+                depends on the deliverables of the previous one and corresponds to a specialisation
+                of tasks.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_d4t_xk3_qpb">
+        <glossterm>Web technologies</glossterm>
+        <glossdef>
+            <p>a general term referring to the many languages and multimedia packages that are used
+                in conjunction with one another, to produce dynamic web sites such as this one.</p>
+        </glossdef>
+    </glossentry>
+</glossgroup>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_references8">
+    <title>References</title>
+    <shortdesc>There are some helpful links which can be used in the process of preparation for the
+        exam.</shortdesc>
+    <refbody>
+        <section id="section_hyc_krs_4pb">
+            <title>The official site of International Technical Communication Qualifications
+                Foundation</title>
+            <p><xref href="https://itcqf.org/" format="html" scope="external">ITCQF</xref></p>
+        </section>
+        <section id="section_igs_krs_4pb">
+            <title>Exam booking</title>
+            <p><xref
+                    href="https://www.gasq.org/en/certification/remote/book-an-exam.html?rp=2&amp;id=137"
+                    format="html" scope="external">Registration for certification</xref></p>
+        </section>
+        <section id="section_r1z_krs_4pb">
+            <title>Online home exams</title>
+            <p><xref
+                    href="https://www.gasq.org/en/certification/online-at-home-exams.html#article-4910"
+                    format="html" scope="external">Book online home exam</xref></p>
+        </section>
+    </refbody>
+</reference>

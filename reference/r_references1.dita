@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_references1">
+        <title>References</title>
+        <shortdesc>The details for those who are interested in the course.</shortdesc>
+        <refbody>
+                <section id="section_ipd_gcq_qpb">
+                        <title>Technical communication</title>
+                        <p><xref
+                                        href="https://en.wikipedia.org/wiki/Technical_communication#:~:text=Technical%20communication%20is%20a%20means%20to%20convey%20scientific%2C,are%20designated%20as%20technical%20communicators%20or%20technical%20writers."
+                                        format="html" scope="external">Wikipedia article</xref></p>
+                </section>
+                <section id="section_q5h_gcq_qpb">
+                        <title>Technical writer</title>
+                        <p><xref
+                                        href="https://en.wikipedia.org/wiki/Technical_writer#:~:text=A%20technical%20writer%20is%20a%20professional%20information%20communicator,facilitates%20the%20transfer%20and%20comprehension%20of%20the%20information."
+                                        format="html" scope="external">Wikipedia article</xref></p>
+                </section>
+                <section id="section_mll_gcq_qpb">
+                        <title>Vistula course</title>
+                        <p><xref
+                                        href="https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna"
+                                        format="html" scope="external">Postgraduate studies
+                                        "Technical communication"</xref></p>
+                </section>
+                <section id="section_enp_gcq_qpb">
+                        <title>Tools</title>
+                        <p><xref href="https://www.atlassian.com/software/jira" format="html"
+                                        scope="external">Jira</xref></p>
+                        <p><xref href="https://www.atlassian.com/software/confluence" format="html"
+                                        scope="external">Confluence</xref></p>
+                        <p><xref href="https://www.techsmith.com/screen-capture.html" format="html"
+                                        scope="external">Snagit</xref></p>
+                        <p><xref href="https://www.techsmith.com/video-editor.html" format="html"
+                                        scope="external">Camtasia</xref></p>
+                        <p><xref
+                                        href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html"
+                                        format="html" scope="external">oXygen</xref></p>
+                        <p><xref href="https://www.memoq.com/" format="html" scope="external"
+                                        >memoQ</xref></p>
+                        <p><xref href="https://www.madcapsoftware.com/products/flare/" format="html"
+                                        scope="external">MadCap Flare</xref></p>
+                        <p><xref href="https://www.microsoft.com/en-us/microsoft-teams/download-app"
+                                        format="html" scope="external">Microsoft Teams</xref></p>
+                </section>
+                <section id="section_vqs_gcq_qpb">
+                        <title>Partners</title>
+                        <p><xref href="https://www.atlassian.com/" format="html" scope="external"
+                                        >Atlassian</xref></p>
+                        <p><xref href="http://www.sync.ro/" format="html" scope="external">Syncro
+                                        Soft</xref></p>
+                        <p><xref href="https://www.techsmith.com/" format="html" scope="external"
+                                        >TechSmith</xref></p>
+                        <p><xref href="https://www.madcapsoftware.com/" format="html"
+                                        scope="external">MadCap software</xref></p>
+                        <p><xref href="https://www.memoq.com/" format="html" scope="external"
+                                        >memoQ</xref></p>
+                        <p><xref href="https://dredar.com/" format="html" scope="external"
+                                        >DREDAR</xref></p>
+                        <p><xref href="https://itcqf.org/" format="html" scope="external"
+                                        >ITCQF</xref></p>
+                        <p><xref href="http://techwriter.pl/" format="html" scope="external"
+                                        >Techwriter.pl</xref></p>
+                </section>
+        </refbody>
+</reference>

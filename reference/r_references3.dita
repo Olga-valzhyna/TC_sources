@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_references3">
+    <title>References</title>
+    <shortdesc>The chapter was presented on the basis of the following sites.</shortdesc>
+    <refbody>
+        <section id="section_vd2_nwt_qpb">
+            <title>w3schools</title>
+            <p><xref
+                    href="https://www.w3schools.in/technical-writing/documentation-development-life-cycle-ddlc/#Document_Development_Life_Cycle"
+                    format="html" scope="external">Document Development Life Cycle</xref></p>
+        </section>
+        <section id="section_pcr_wwt_qpb">
+            <title>ITCQF</title>
+            <p><xref
+                    href="https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf"
+                    format="html" scope="external">ITCQF Syllabus Version 2.0 pdf</xref></p>
+        </section>
+        <section id="section_z4f_bxt_qpb">
+            <title>Technical writing is easy</title>
+            <p><xref
+                    href="https://medium.com/technical-writing-is-easy/how-to-handle-an-unresponsive-sme-2a5f17953b95"
+                    format="html" scope="external">How to Handle an Unresponsive SME</xref></p>
+        </section>
+    </refbody>
+</reference>

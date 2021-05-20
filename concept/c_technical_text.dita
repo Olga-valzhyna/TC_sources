@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_technical_text">
+    <title>Technical text</title>
+    <shortdesc>Technical text has certain characteristics which distinguish it from other types of
+        texts. The purpose of technical texts is to educate the reader in a particular subject or
+        skill through in-depth study and practice. </shortdesc>
+    <conbody>
+        <image href="../image/TT.jpg" id="image_zy5_r3j_ppb" width="500"/>
+        <p>A typical technical text should be:</p>
+        <ul id="ul_b42_jjj_ppb">
+            <li><b>clear </b></li>
+            <li><b>straightforward </b></li>
+            <li><b>precise</b></li>
+            <li><b>easily understood</b></li>
+            <li><b>with denotative meanings</b></li>
+            <li><b>detailed</b></li>
+            <li><b>very structured</b></li>
+            <li><b>skimmable</b></li>
+            <li><b>with a problem-solving focus</b></li>
+        </ul>
+        <image href="../image/Techwriting%20concepts.jpg" width="500" id="image_qhd_31r_qpb"/>
+    </conbody>
+</concept>

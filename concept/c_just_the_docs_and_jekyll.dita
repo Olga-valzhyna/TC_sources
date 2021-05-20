@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="t_applying_just_the_docs_and_jekyll">
+    <title> Just-the-Docs and Jekyll</title>
+    <shortdesc>Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme
+        that is easily customizable and hosted on GitHub Pages.</shortdesc>
+    <conbody>
+        <section id="section_i3y_mr3_ppb">
+            <title>Just the Docs</title>
+            <p><b>Just the Docs</b> is built for a static site generator, that is called Jekyll.
+                Just the Docs requires no special plugins and can run on <xref
+                    href="c_github_and_github_pages.dita">GitHub Pages</xref>’ standard Jekyll
+                compiler.</p>
+        </section>
+        <section id="section_ir2_nr3_ppb">
+            <title>Jekyll</title>
+            <p><b>Jekyll</b> is a simple, blog-aware, static site generator perfect for personal
+                projects, or organization sites. Jekyll takes your content, renders Markdown
+                templates, and spits out a complete, static website. As Jekyll is a static site
+                generator, it does not use databases to generate the pages dynamically. Instead of
+                using databases, Jekyll supports loading content from YAML, JSON, CSV, and TSV
+                files. Jekyll is the engine behind <xref
+                    href="https://en.wikipedia.org/wiki/GitHub_Pages" format="html" scope="external"
+                    >GitHub Pages</xref>, a GitHub feature that allows users to host websites based
+                on their GitHub repositories for no additional cost.</p>
+        </section>
+        <section id="section_m43_nr3_ppb"><title>Username.github.io</title><p>Create a new
+                repository named <b>Username.github.io</b>(where “username” is your actual GitHub
+                user name). If you scroll down on the settings page, you’ll see the <b>GitHub
+                    Pages</b> section near the bottom. Click the <b>Choose a theme</b> button to
+                start the process of creating your site.</p><p>In order to create a site with the
+                help of <b>Just the Docs</b> your <b>Username.github.io</b> should contain the
+                following folders and files.</p><image href="../image/J1.jpg" id="image_c2c_mt3_ppb"
+                width="700"/><ol id="ol_s4t_2t3_ppb">
+                <li><b>_includes</b><p>It's a folder with SVG files (in case you have them. If not,
+                        you don't need such a folder).</p><image href="../image/J2.jpg"
+                        id="image_wvb_lt3_ppb" width="700"/></li>
+                <li><b>assets/images</b><p>This folder contains JPGs, PNGs and PDFs.</p><image
+                        href="../image/J3.jpg" id="image_czn_pt3_ppb" width="700"/></li>
+                <li><b>docs</b><p>All the documents are presented here.</p><image
+                        href="../image/J5.jpg" id="image_nbn_xt3_ppb" width="700"/><p>And depending
+                        on the location of the document their structure is different.</p><image
+                        href="../image/J4.jpg" id="image_uxm_zt3_ppb" width="700"/><ol
+                        id="ol_dts_f53_ppb">
+                        <li>1 docs/file.md<codeblock id="codeblock_nmp_vw3_ppb">--
+layout: default
+title: Title
+nav_order: 2
+---
+# Title
+Markdown text goes here.</codeblock></li>
+                        <li>2 docs/chapter/file.md<codeblock id="codeblock_jfd_3x3_ppb">---
+layout: default
+title: Title
+parent: Chapter title 
+nav_order: 1 
+---
+# Title
+Markdown text goes here.</codeblock></li>
+                    </ol><p>Within each chapter there should be a separate <b>index.md</b>
+                        file</p><image href="../image/J8.jpg" id="image_gp2_t53_ppb" width="700"
+                        /><p>docs/chapter/index.md</p><codeblock id="codeblock_jrs_qx3_ppb">---
+layout: default
+title: Chapter title 
+nav_order: 3 (the order in the main Table of Contents)
+has_children: true
+---
+# Title
+Markdown text goes here.</codeblock></li>
+                <li><b>_config.yml</b><p>This file is copied from <b>Just the
+                    Docs</b></p><codeblock id="codeblock_jvt_mw3_ppb">name: _____________
+title: Page title
+description: Page description
+remote_theme: username/just-the-docs (username = your account name)
+color_scheme: light/dark
+aux_links:
+"Source repository on GitHub":
+- "//github.com/username/username.github.io“ 
+back_to_top: true
+back_to_top_text: "Back to top“
+footer_content: "_____________"</codeblock></li>
+                <li><b>index.md</b><codeblock id="codeblock_hpp_5v3_ppb">---
+layout: default 
+title: Introduction (is presented in Table of Contents)
+nav_order: 1 (index.md is the first page in your Table of Contents)
+description: “Description of this chapter"
+permalink: /
+---
+# Introduction 
+Markdown text goes here.</codeblock></li>
+            </ol></section>
+    </conbody>
+</concept>

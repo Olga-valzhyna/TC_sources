@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_a_profession_of_technical_writer">
+        <title>A profession of Technical Writer</title>
+        <shortdesc>A <b>technical</b>
+                <b>writer</b> is a professional information communicator whose task is to transfer
+                information between two or more parties, through any medium that best facilitates
+                the transfer and comprehension of the information.</shortdesc>
+        <conbody>
+                <section id="section_gxk_wcq_ppb">
+                        <title>Responsibilities</title>
+                        <p><ul id="ul_k4v_3dq_ppb">
+                                        <li>Technical content creation and content review</li>
+                                        <li>Formatting and publishing</li>
+                                        <li>Acquisition and organization of information</li>
+                                        <li>Estimation of documentation quality</li>
+                                        <li>Help for other teams - marketing, training, QA</li>
+                                        <li>Automation of processes, implementation of tools</li>
+                                        <li>Creation and maintainance of the information
+                                                architecture</li>
+                                        <li>Determination of the clearest and most logical way to
+                                                present information</li>
+                                </ul><image href="../image/TWresponsibilities.jpg" width="500"
+                                        id="image_asr_kdq_ppb"/></p>
+                </section>
+                <section id="section_iss_wcq_ppb"><title>Specializations</title><p>
+                                <ul id="ul_z1c_ndq_ppb">
+                                        <li>Technical Writer</li>
+                                        <li>Information Developer</li>
+                                        <li>Documentation Specialist</li>
+                                        <li>Information Architect</li>
+                                        <li>UX Writer</li>
+                                        <li>Content Designer</li>
+                                        <li>Documentation Engineer</li>
+                                        <li>Content Writer</li>
+                                        <li>User Assistance Specialist</li>
+                                        <li>Technical Translator</li>
+                                </ul>
+                        </p><image href="../image/magic.jpg" width="500" id="image_gy4_ccy_qpb"
+                        /></section>
+                <section id="section_ohx_wcq_ppb"><title>Courses</title><p>
+                                <ul id="ul_fqr_tdq_ppb">
+                                        <li><xref href="https://developers.google.com/tech-writing"
+                                                  format="html" scope="external">Google Technical
+                                                  Writing Course (Free)</xref></li>
+                                        <li><xref
+                                                  href="https://www.udemy.com/topic/technical-writing/"
+                                                  format="html" scope="external">Udemy Technical
+                                                  Writing Courses (Paid)</xref></li>
+                                        <li><xref href="https://hashnode.com/bootcamp/batch-2"
+                                                  format="html" scope="external">Hashnode Technical
+                                                  Writing Bootcamp (Free)</xref></li>
+                                        <li><xref
+                                                  href="https://www.devtodev.com/education/online-course/gdd-basic-course"
+                                                  format="html" scope="external">Game design
+                                                  documentation (Free) RUS</xref></li>
+                                        <li><xref href="https://jpdocu.teachable.com/" format="html"
+                                                  scope="external">School of Technical Writing
+                                                  (Free/Paid)</xref></li>
+                                        <li><xref
+                                                  href="https://www.technicalcommunicationcenter.com/2020/12/15/free-7-day-technical-writing-email-course/"
+                                                  format="html" scope="external">7 Day Technical
+                                                  Writing Email Course (Free)</xref></li>
+                                        <li><xref
+                                                  href="https://www.skillshare.com/browse/technical-writing?clickid=QJjRfdx8xxyLUQUwUx0Mo3EAUkBxueSWeXP%3AXk0&amp;irgwc=1&amp;utm_content=4650&amp;utm_term=Digital%20Defynd%20-%20S&amp;utm_campaign=397676&amp;affiliateRef=6595003&amp;utm_medium=affiliate-referral&amp;utm_source=IR"
+                                                  format="html" scope="external">Online Technical
+                                                  Writing Classes (SkillShare)</xref></li>
+                                        <li><xref href="https://www.w3schools.in/technical-writing/"
+                                                  format="html" scope="external">Technical Writing
+                                                  Tutorial (Free)</xref></li>
+                                        <li><xref
+                                                  href="https://coursesity.com/course-detail/technical-writing-quick-start-guides-online-class"
+                                                  format="html" scope="external">Technical Writing:
+                                                  Quick Start Guides Online Class</xref></li>
+                                        <li><xref
+                                                  href="https://en.wikiversity.org/wiki/Technical_writing/Courses#An_Introduction_to_Technical_Writing"
+                                                  format="html" scope="external">Wikiversity.
+                                                  Technical writing courses</xref></li>
+                                </ul>
+                        </p><image href="../image/TWC.jpg" width="500" id="image_ftt_2cy_qpb"
+                        /></section>
+                <section id="section_kx1_xcq_ppb">
+                        <title>Conferences</title>
+                        <p>
+                                <ul id="ul_vhg_vdq_ppb">
+                                        <li><xref href="http://soapconf.com/" format="html"
+                                                  scope="external">soap!</xref></li>
+                                        <li><xref href="http://meetcontent.org/" format="html"
+                                                  scope="external">Meet Content</xref></li>
+                                        <li><xref
+                                                  href="https://www.writethedocs.org/conf/portland/2021/"
+                                                  format="html" scope="external">Write the
+                                                  docs</xref></li>
+                                        <li><xref
+                                                  href="https://www.technical-communication.org/tekom/conferences/conferences-overview"
+                                                  format="html" scope="external">tecom
+                                                Europe</xref></li>
+                                        <li><xref href="https://evolution-of-tc.com/" format="html"
+                                                  scope="external">Evolution of TC 2021</xref></li>
+                                </ul>
+                        </p>
+                </section>
+                <section id="section_p12_xcq_ppb">
+                        <title>Communities</title>
+                        <p>
+                                <ul id="ul_rcz_vdq_ppb">
+                                        <li><xref
+                                                  href="https://olga-valzhyna.github.io/Vistula/docs/Basic%20issues%20of%20technical%20communication/techwriter.pl"
+                                                  format="html" scope="external"
+                                                  >Techwriter.pl</xref></li>
+                                        <li><xref href="https://hashnode.com/" format="html"
+                                                  scope="external">hashnode</xref></li>
+                                        <li><xref href="https://www.stc.org/" format="html"
+                                                  scope="external">Society for Technical
+                                                  Communication</xref></li>
+                                        <li><xref href="https://techwriterstribe.com/" format="html"
+                                                  scope="external">Tech Writer’s Tribe</xref></li>
+                                        <li><xref
+                                                  href="https://developers.google.com/season-of-docs/"
+                                                  format="html" scope="external">Season of
+                                                  Docs</xref></li>
+                                </ul>
+                        </p>
+                </section>
+                <section id="section_rkg_xcq_ppb">
+                        <title>Social networks</title>
+                        <p>
+                                <ul id="ul_q1q_xdq_ppb">
+                                        <li><xref href="https://www.linkedin.com/groups/112571/"
+                                                  format="html" scope="external">Technical Writer
+                                                  Forum</xref></li>
+                                        <li><xref
+                                                  href="https://www.facebook.com/groups/316426435869597/?notif_id=1619951459363264&amp;notif_t=group_name_change&amp;ref=notif"
+                                                  format="html" scope="external">Projektowanie
+                                                  słowem: UX writing</xref></li>
+                                        <li><xref href="https://www.facebook.com/groups/ditahub"
+                                                  format="html" scope="external">DITA</xref></li>
+                                        <li><xref
+                                                  href="https://www.facebook.com/groups/tworzeniedokumentacji"
+                                                  format="html" scope="external">Tworzenie
+                                                  dokumentacji</xref></li>
+                                        <li><xref
+                                                  href="https://www.facebook.com/groups/TechnicalWriters"
+                                                  format="html" scope="external">Technical
+                                                  writers</xref></li>
+                                        <li><xref
+                                                  href="https://www.facebook.com/groups/1943184175929582"
+                                                  format="html" scope="external">Software Technical
+                                                  Writer’s Group</xref></li>
+                                        <li><xref
+                                                  href="https://www.facebook.com/groups/482242568831770"
+                                                  format="html" scope="external">Microcopy &amp; UX
+                                                  Writing</xref></li>
+                                        <li><xref
+                                                  href="https://www.facebook.com/groups/uxwriterskrakow"
+                                                  format="html" scope="external">UX writers
+                                                  Polska</xref></li>
+                                        <li><xref
+                                                  href="https://www.facebook.com/groups/564986683562634"
+                                                  format="html" scope="external">Technical writers
+                                                  united</xref></li>
+                                        <li><xref
+                                                  href="https://www.facebook.com/groups/656731634822680"
+                                                  format="html" scope="external">Lokalizacja gier i
+                                                  oprogramowania</xref></li>
+                                </ul>
+                        </p>
+                </section>
+                <section id="section_wn3_xcq_ppb">
+                        <title>Literature</title>
+                        <ul id="ul_nlh_swq_qpb">
+                                <li><xref
+                                                href="https://www.amazon.com/Insiders-Guide-Technical-Writing-ebook/dp/B07PQX34ZN"
+                                                format="html" scope="external">The Insider's Guide
+                                                to Technical Writing (Kindle Edition)</xref></li>
+                                <li><xref
+                                                href="https://www.amazon.com/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts-ebook/dp/B004Z7J9RE"
+                                                format="html" scope="external">Technical Writing For
+                                                Dummies (Kindle Edition)</xref></li>
+                                <li><xref
+                                                href="https://www.amazon.com/Technical-Writing-Process-five-step-procedures/dp/0994169310"
+                                                format="html" scope="external">Technical Writing
+                                                Process: The simple, five-step guide that anyone can
+                                                use to create technical documents such as user
+                                                guides, manuals, and procedures</xref></li>
+                                <li><xref
+                                                href="http://techwriter.pl/category/warsztat/biblioteczka-techwritera/"
+                                                format="html" scope="external">A library of
+                                                techwriter.pl</xref></li>
+                                <li><xref
+                                                href="https://clickhelp.com/free-download/technical-writer-career-guide/?utm_source=quora-com&amp;utm_medium=kesi-link&amp;utm_campaign=top-7-books-for-technical-writers"
+                                                format="html" scope="external">Technical Writer
+                                                Career Guide - Free Ebook</xref></li>
+                        </ul>
+                </section>
+                <section id="section_gkm_xcq_ppb">
+                        <title>Sites</title>
+                        <p>
+                                <ul id="ul_yjr_zdq_ppb">
+                                        <li><xref
+                                                  href="https://www.freecodecamp.org/news/technical-writing-for-beginners/"
+                                                  format="html" scope="external">Technical Writing
+                                                  for Beginners</xref></li>
+                                        <li><xref href="https://idratherbewriting.com/"
+                                                  format="html" scope="external">I’d rather be
+                                                  writing</xref></li>
+                                        <li><xref href="https://cybertext.wordpress.com/"
+                                                  format="html" scope="external"
+                                                >CyberText</xref></li>
+                                        <li><xref href="https://heroictechwriting.com/"
+                                                  format="html" scope="external">Heroic Technical
+                                                  Writers</xref></li>
+                                        <li><xref
+                                                  href="https://clickhelp.com/clickhelp-technical-writing-blog/"
+                                                  format="html" scope="external"
+                                                >ClickHelp</xref></li>
+                                        <li><xref
+                                                  href="https://medium.com/technical-writing-is-easy"
+                                                  format="html" scope="external">Technical writing
+                                                  is easy</xref></li>
+                                        <li><xref href="https://techcommtools.com/" format="html"
+                                                  scope="external">Tech Comm Tools</xref></li>
+                                        <li><xref href="https://techwriterkoduje.pl/" format="html"
+                                                  scope="external">Tech Writer koduje</xref></li>
+                                        <li><xref href="https://www.scriptorium.com/" format="html"
+                                                  scope="external">Scriptorium</xref></li>
+                                        <li><xref href="https://3di-info.com/" format="html"
+                                                  scope="external">3di</xref></li>
+                                </ul>
+                        </p>
+                </section>
+        </conbody>
+</concept>
